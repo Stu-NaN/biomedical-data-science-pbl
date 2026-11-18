@@ -1,0 +1,17 @@
+﻿field,dtype,missing,unique
+record_id,str,0,920
+site,str,0,4
+age,float64,0,50
+sex,float64,0,2
+cp,float64,0,4
+trestbps,float64,59,61
+chol,float64,30,217
+fbs,float64,90,2
+restecg,float64,2,3
+thalach,float64,55,119
+exang,float64,55,2
+oldpeak,float64,62,53
+slope,float64,309,3
+ca,float64,611,4
+thal,float64,486,3
+num,int64,0,5

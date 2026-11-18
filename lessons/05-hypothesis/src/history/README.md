@@ -1,0 +1,16 @@
+# 历史代码
+
+以下文件来自之前课程任务的实际源码或可见文件编辑记录，仅用于追溯。
+它们不是这次新写的分析入口，不应直接批量执行；部分保留了原本机路径、
+当时的依赖和文档构建流程。输入、输出和模板可能已在原任务之后发生变化。
+
+- [build_deck.mjs](build_deck.mjs)
+- [build_deck_v2.mjs](build_deck_v2.mjs)
+- [build_docs.py](build_docs.py)
+- [build_presenter_docx.py](build_presenter_docx.py)
+- [expand_presenter_v2.mjs](expand_presenter_v2.mjs)
+- [presenter-overlay-v2.ps1](presenter-overlay-v2.ps1)
+- [presenter-overlay.ps1](presenter-overlay.ps1)
+
+课件包自带的教师代码位于 `../../scripts/`（如存在），和学生生成代码分开。
+本次跨电脑复查请使用 `../analyze.py`。

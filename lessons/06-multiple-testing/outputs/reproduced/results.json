@@ -1,0 +1,28 @@
+{
+  "training_n": 38,
+  "features": 7129,
+  "contrast": "ALL minus AML",
+  "discoveries": {
+    "raw": 1694,
+    "bonferroni": 26,
+    "bh": 535
+  },
+  "null_simulation": {
+    "mean_false_positives": 50.152,
+    "repetitions": 1000,
+    "tests_per_repetition": 1000
+  },
+  "protocol": "Discovery split only. Existing held-out results remain historical; no new test evaluation.",
+  "archive_check": true,
+  "seed": 2026,
+  "locked_test_label_files_opened": false,
+  "held_out_evaluation_performed": false,
+  "versions": {
+    "python": "3.12.14",
+    "numpy": "2.3.5",
+    "pandas": "3.0.1",
+    "scipy": "1.18.1",
+    "scikit-learn": "1.9.1",
+    "matplotlib": "3.11.2"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "training_n": 341,
+  "validation_n": 114,
+  "features": 30,
+  "protocol": "Fixed archival baselines on WDBC. No hyperparameter search and no locked-test reads.",
+  "archive_check": true,
+  "seed": 2026,
+  "locked_test_label_files_opened": false,
+  "held_out_evaluation_performed": false,
+  "versions": {
+    "python": "3.12.14",
+    "numpy": "2.3.5",
+    "pandas": "3.0.1",
+    "scipy": "1.18.1",
+    "scikit-learn": "1.9.1",
+    "matplotlib": "3.11.2"
+  }
+}

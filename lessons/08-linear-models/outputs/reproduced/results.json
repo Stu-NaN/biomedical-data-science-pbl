@@ -1,0 +1,22 @@
+{
+  "training_n": 216,
+  "validation_n": 54,
+  "raw_missing_cells": 557,
+  "alternate_dataset_rows": 270,
+  "alternate_dataset_sha256": "16500a1f28cd6e9d2ab346182327b42ce0d9b76ae75f3d94c16382599cc7d152",
+  "primary_dataset_sha256": "6b8a44d8e5623d899703dff71267019b47bfb3282ef85c422c14b133c700a29d",
+  "protocol": "New archival baseline on data/heart.csv, NOT a recreation of historical statlog-heart results.",
+  "boundary": "Existing assets use a different dataset. Labels were previously available; this is not a new blind test.",
+  "archive_check": true,
+  "seed": 2026,
+  "locked_test_label_files_opened": false,
+  "held_out_evaluation_performed": false,
+  "versions": {
+    "python": "3.12.14",
+    "numpy": "2.3.5",
+    "pandas": "3.0.1",
+    "scipy": "1.18.1",
+    "scikit-learn": "1.9.1",
+    "matplotlib": "3.11.2"
+  }
+}

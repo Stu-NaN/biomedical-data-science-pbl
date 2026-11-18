@@ -1,0 +1,14 @@
+{
+  "status": "passed",
+  "lesson_count": 9,
+  "file_count": 488,
+  "import_records_checked": 355,
+  "formal_homework_checked": 8,
+  "indexed_files_checked": 486,
+  "office_packages_checked": 57,
+  "python_files_parsed": 48,
+  "total_bytes": 88466920,
+  "errors": [],
+  "warnings": [],
+  "scope": "Structural, checksum and syntax checks; not visual re-review of unchanged historical documents."
+}

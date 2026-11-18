@@ -1,0 +1,28 @@
+{
+  "raw_n": 920,
+  "missing_thalach": 55,
+  "included_n": 865,
+  "endpoint": "thalach",
+  "contrast": "disease minus no disease",
+  "mean_difference": -20.538908133424002,
+  "welch_t": -12.633311693337,
+  "degrees_of_freedom": 837.1762389406794,
+  "p_value_two_sided": 1.3015822320426057e-33,
+  "ci95": [
+    -23.729979821392053,
+    -17.34783644545595
+  ],
+  "boundary": "Unadjusted observational group comparison, not a causal or diagnostic claim.",
+  "archive_check": true,
+  "seed": 2026,
+  "locked_test_label_files_opened": false,
+  "held_out_evaluation_performed": false,
+  "versions": {
+    "python": "3.12.14",
+    "numpy": "2.3.5",
+    "pandas": "3.0.1",
+    "scipy": "1.18.1",
+    "scikit-learn": "1.9.1",
+    "matplotlib": "3.11.2"
+  }
+}

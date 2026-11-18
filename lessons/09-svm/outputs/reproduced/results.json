@@ -1,0 +1,49 @@
+{
+  "training_n": 186,
+  "validation_n": 62,
+  "selected": {
+    "linear": {
+      "configuration": "('linear', 1.0, 0.1)",
+      "metrics": {
+        "n": 62,
+        "TN": 18,
+        "FP": 2,
+        "FN": 16,
+        "TP": 26,
+        "accuracy": 0.7096774193548387,
+        "balanced_accuracy": 0.7595238095238095,
+        "sensitivity": 0.6190476190476191,
+        "specificity": 0.9,
+        "roc_auc": 0.8297619047619048
+      }
+    },
+    "rbf": {
+      "configuration": "('rbf', 10.0, 10.0)",
+      "metrics": {
+        "n": 62,
+        "TN": 16,
+        "FP": 4,
+        "FN": 8,
+        "TP": 34,
+        "accuracy": 0.8064516129032258,
+        "balanced_accuracy": 0.8047619047619048,
+        "sensitivity": 0.8095238095238095,
+        "specificity": 0.8,
+        "roc_auc": 0.7809523809523811
+      }
+    }
+  },
+  "protocol": "Uses provided SVM helper, training scaling and predeclared validation rule. No locked-test reads.",
+  "archive_check": true,
+  "seed": 2026,
+  "locked_test_label_files_opened": false,
+  "held_out_evaluation_performed": false,
+  "versions": {
+    "python": "3.12.14",
+    "numpy": "2.3.5",
+    "pandas": "3.0.1",
+    "scipy": "1.18.1",
+    "scikit-learn": "1.9.1",
+    "matplotlib": "3.11.2"
+  }
+}
