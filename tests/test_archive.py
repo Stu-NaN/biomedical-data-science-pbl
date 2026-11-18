@@ -1,6 +1,8 @@
 import hashlib
 import importlib.util
 import json
+import subprocess
+import sys
 import unittest
 from pathlib import Path
 
@@ -37,6 +39,13 @@ class ArchiveTests(unittest.TestCase):
             result = json.loads((ROOT / "lessons" / lesson / "outputs/reproduced/results.json").read_text(encoding="utf-8"))
             self.assertFalse(result["held_out_evaluation_performed"])
             self.assertFalse(result["locked_test_label_files_opened"])
+
+    def test_validation_report_is_repeatable(self):
+        command = [sys.executable, str(ROOT / "tools/validate_archive.py")]
+        subprocess.run(command, check=True, capture_output=True)
+        first = (ROOT / "provenance/validation.json").read_bytes()
+        subprocess.run(command, check=True, capture_output=True)
+        self.assertEqual(first, (ROOT / "provenance/validation.json").read_bytes())
 
 
 if __name__ == "__main__":

@@ -23,7 +23,10 @@ def files():
 
 def main():
     errors, warnings = [], []
-    paths = files()
+    paths = [
+        path for path in files()
+        if path.relative_to(ROOT).as_posix() != "provenance/validation.json"
+    ]
     imported = json.loads((ROOT / "provenance/imported-files.json").read_text(encoding="utf-8"))
     for record in imported:
         path = ROOT / record["path"]
