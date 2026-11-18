@@ -1,0 +1,184 @@
+[
+  {
+    "name": "student-package-class3 (1).zip",
+    "exists": true,
+    "bytes": 27288384,
+    "sha256": "e26b8161c7d7b9c5ae9dcd8d420bf439cfd5dff911fd5659e792fdf27eb3d570",
+    "duplicate_of": null
+  },
+  {
+    "name": "v2_pbl-data-types-student-worksheet (1).zip",
+    "exists": true,
+    "bytes": 6597272,
+    "sha256": "facb911c37cd736e78767c07a413f8bf252483076e712c12c40b3ba5041d2f8d",
+    "duplicate_of": null
+  },
+  {
+    "name": "pbl-instruction (1).pptx",
+    "exists": true,
+    "bytes": 12590684,
+    "sha256": "1eb3b161d6b4f50e982ebe9b717889ce012481b05af264854caaab81b9b62b40",
+    "duplicate_of": null
+  },
+  {
+    "name": "evaluation (1).pptx",
+    "exists": true,
+    "bytes": 879412,
+    "sha256": "127e6347d91bd6c72bf1eec48c59e1d5b532bf5fd914589e5f45d2098d166148",
+    "duplicate_of": null
+  },
+  {
+    "name": "hypothesis (1).zip",
+    "exists": true,
+    "bytes": 882122,
+    "sha256": "108f15ffa2826cc72d8f24556c8491fb4c66c631f2b3f338030c33b11354bf40",
+    "duplicate_of": null
+  },
+  {
+    "name": "lesson01-vscode-codex-git.pptx",
+    "exists": true,
+    "bytes": 974026,
+    "sha256": "29cad2f5a3d7244bd625fbace41686279e92ab337b7ec5bac5d8465cc3c4a58e",
+    "duplicate_of": null
+  },
+  {
+    "name": "plan (2).docx",
+    "exists": true,
+    "bytes": 34659,
+    "sha256": "ec24f26b60bc84c0ec1c0bdd4897768ca8a6e0e98c47538680fcb1fe8ae575d2",
+    "duplicate_of": null
+  },
+  {
+    "name": "plan (3).docx",
+    "exists": true,
+    "bytes": 34659,
+    "sha256": "ec24f26b60bc84c0ec1c0bdd4897768ca8a6e0e98c47538680fcb1fe8ae575d2",
+    "duplicate_of": "plan (2).docx"
+  },
+  {
+    "name": "第5讲_统计检验与假设设计-Plan (1).pptx",
+    "exists": true,
+    "bytes": 40114,
+    "sha256": "3cd765085776c9ae5648202479194b0cda4c29062aa6ecc49b611c5d225f1f41",
+    "duplicate_of": null
+  },
+  {
+    "name": "6.Naive-Bayes(2).zip",
+    "exists": true,
+    "bytes": 18833337,
+    "sha256": "d7fa6e76e3cad9c7bea488d8b288d6c8ed5f8f9652af2ca944ca74ba675c9d12",
+    "duplicate_of": null
+  },
+  {
+    "name": "7. Linear-models(1).zip",
+    "exists": true,
+    "bytes": 1741151,
+    "sha256": "97e9c9ee401f87041650fef42e2561d89b9fea6a31f44075077ef1a8d08fd716",
+    "duplicate_of": null
+  },
+  {
+    "name": "9. SVM(3).zip",
+    "exists": true,
+    "bytes": 63213167,
+    "sha256": "71a4a33bf25e69c36cec54e9acc8ae00a1ca4209a5fe760a33a654827297ca8f",
+    "duplicate_of": null
+  },
+  {
+    "name": "student-package-class3.zip",
+    "exists": true,
+    "bytes": 27288384,
+    "sha256": "e26b8161c7d7b9c5ae9dcd8d420bf439cfd5dff911fd5659e792fdf27eb3d570",
+    "duplicate_of": "student-package-class3 (1).zip"
+  },
+  {
+    "name": "svm-pbl-intro.pptx",
+    "exists": true,
+    "bytes": 212257,
+    "sha256": "cad9f160b2abbdd2cd68847478e2bee35aebfee7d4dcfb28248659d1eff48cf9",
+    "duplicate_of": null
+  },
+  {
+    "name": "svm-pbl-intro-with-kernel.pptx",
+    "exists": true,
+    "bytes": 244387,
+    "sha256": "b976f138701e962628b3f9a694ebae24b8ac6e3edb852005f23805ef61cd248f",
+    "duplicate_of": null
+  },
+  {
+    "name": "5-multiple-test(1).zip",
+    "exists": true,
+    "bytes": 966312,
+    "sha256": "3e17adfdc97c15e96e6faae5e6c0d5c728bdfbc25f884752046312e07d727e79",
+    "duplicate_of": null
+  },
+  {
+    "name": "5-multiple-test.zip",
+    "exists": true,
+    "bytes": 966312,
+    "sha256": "3e17adfdc97c15e96e6faae5e6c0d5c728bdfbc25f884752046312e07d727e79",
+    "duplicate_of": "5-multiple-test(1).zip"
+  },
+  {
+    "name": "github-course-harness-pbl.pptx",
+    "exists": true,
+    "bytes": 63295,
+    "sha256": "7ed841764363f4e56d67038ed80185bdec996e94540a284804538875fdf51aa2",
+    "duplicate_of": null
+  },
+  {
+    "name": "南铂山_v2_pbl-data-types-student-worksheet.docx",
+    "exists": true,
+    "bytes": 159869,
+    "sha256": "4f71b26edda503a1daf2ce6e674fa88047868853def8b56d12e47c27de1f0aa2",
+    "role": "user-confirmed-homework"
+  },
+  {
+    "name": "pbl-hypothesis-student-worksheet-completed.docx",
+    "exists": true,
+    "bytes": 40012,
+    "sha256": "a698a8d076acd632c97fb9737bdcda00cecb9a52bcacd981de1b5063f72cca36",
+    "role": "user-confirmed-homework"
+  },
+  {
+    "name": "第6讲_多重检验校正_作业_南铂山.docx",
+    "exists": true,
+    "bytes": 48071,
+    "sha256": "fd2c146a7ec60705bf50e15c865d4c9a47e639f809718b1350ce788f7bd2ae97",
+    "role": "user-confirmed-homework"
+  },
+  {
+    "name": "Naive-Bayes-student-worksheet-completed.docx",
+    "exists": true,
+    "bytes": 46829,
+    "sha256": "14eda2596379d9b0926d09f1c971a746dc28a242e6e9b35eb35123fbc007bea0",
+    "role": "user-confirmed-homework"
+  },
+  {
+    "name": "Linear-models-student-worksheet-completed.docx",
+    "exists": true,
+    "bytes": 214171,
+    "sha256": "9fc059143164c2aa2675d4b52681a3ac74de21e990ff9b1d6cafbe2cdcf29e54",
+    "role": "user-confirmed-homework"
+  },
+  {
+    "name": "第9讲作业_SVM与Margin_南铂山.docx",
+    "exists": true,
+    "bytes": 1968844,
+    "sha256": "3832161f920ccfc2277b4c7fc665d53556c467ed1dfc79592011277acb997d9e",
+    "role": "user-confirmed-homework"
+  },
+  {
+    "name": "SVM-student-worksheet-completed.docx",
+    "exists": true,
+    "bytes": 732223,
+    "sha256": "34b24a5c9f554036138b0d8f1dde49dceded1709b29a8cc9dd623c1dc934dc96",
+    "role": "user-confirmed-homework"
+  },
+  {
+    "name": "SVM-student-worksheet-completed(1).docx",
+    "exists": true,
+    "bytes": 732223,
+    "sha256": "34b24a5c9f554036138b0d8f1dde49dceded1709b29a8cc9dd623c1dc934dc96",
+    "role": "user-confirmed-homework"
+  }
+]

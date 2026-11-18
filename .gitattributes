@@ -1,10 +1,5 @@
-* text=auto
-*.py text eol=lf
-*.md text eol=lf
-*.json text eol=lf
-*.csv text eol=lf
-*.ps1 text eol=crlf
-*.cmd text eol=crlf
+# Preserve source bytes so archive checksums survive checkout on any OS.
+* -text
 *.docx binary
 *.pptx binary
 *.pdf binary

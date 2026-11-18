@@ -1,0 +1,2312 @@
+[
+  {
+    "archive": "hypothesis (1).zip",
+    "member": "review/numeric_answers.md",
+    "reason": "teacher authoring drafts and render caches; original ZIP remains local"
+  },
+  {
+    "archive": "hypothesis (1).zip",
+    "member": "review/reference-render/page-1.png",
+    "reason": "teacher authoring drafts and render caches; original ZIP remains local"
+  },
+  {
+    "archive": "hypothesis (1).zip",
+    "member": "review/reference-render/page-2.png",
+    "reason": "teacher authoring drafts and render caches; original ZIP remains local"
+  },
+  {
+    "archive": "hypothesis (1).zip",
+    "member": "review/reference-render/page-3.png",
+    "reason": "teacher authoring drafts and render caches; original ZIP remains local"
+  },
+  {
+    "archive": "hypothesis (1).zip",
+    "member": "review/reference-render/pages.json",
+    "reason": "teacher authoring drafts and render caches; original ZIP remains local"
+  },
+  {
+    "archive": "hypothesis (1).zip",
+    "member": "review/reference-render/pbl-hypothesis-teacher-reference.pdf",
+    "reason": "teacher authoring drafts and render caches; original ZIP remains local"
+  },
+  {
+    "archive": "hypothesis (1).zip",
+    "member": "review/render_with_word.py",
+    "reason": "teacher authoring drafts and render caches; original ZIP remains local"
+  },
+  {
+    "archive": "hypothesis (1).zip",
+    "member": "review/update_reference.py",
+    "reason": "teacher authoring drafts and render caches; original ZIP remains local"
+  },
+  {
+    "archive": "5-multiple-test.zip",
+    "member": "6. multiple-test/.gitkeep",
+    "reason": "temporary or empty marker"
+  },
+  {
+    "archive": "6.Naive-Bayes(2).zip",
+    "member": "7. Naive-Bayes/.gitkeep",
+    "reason": "temporary or empty marker"
+  },
+  {
+    "archive": "6.Naive-Bayes(2).zip",
+    "member": "7. Naive-Bayes/data/teacher/locked-test-labels.csv",
+    "reason": "teacher-only labels/manifests excluded from student submission"
+  },
+  {
+    "archive": "6.Naive-Bayes(2).zip",
+    "member": "7. Naive-Bayes/data/teacher/split-manifest.json",
+    "reason": "teacher-only labels/manifests excluded from student submission"
+  },
+  {
+    "archive": "6.Naive-Bayes(2).zip",
+    "member": "7. Naive-Bayes/notebook/.ipynb_checkpoints/pbl-machine-learning-basics-naive-bayes-lab-checkpoint.ipynb",
+    "reason": "cache or repository metadata"
+  },
+  {
+    "archive": "6.Naive-Bayes(2).zip",
+    "member": "7. Naive-Bayes/notebook/.ipynb_checkpoints/pbl-machine-learning-basics-naive-bayes-lab-student-checkpoint.ipynb",
+    "reason": "cache or repository metadata"
+  },
+  {
+    "archive": "6.Naive-Bayes(2).zip",
+    "member": "7. Naive-Bayes/planning/archive-before-20260917/assets__pbl-machine-learning-basics-naive-bayes__analysis-design.json",
+    "reason": "teacher authoring drafts and render caches; original ZIP remains local"
+  },
+  {
+    "archive": "6.Naive-Bayes(2).zip",
+    "member": "7. Naive-Bayes/planning/archive-before-20260917/legacy-student-notebook.ipynb",
+    "reason": "teacher authoring drafts and render caches; original ZIP remains local"
+  },
+  {
+    "archive": "6.Naive-Bayes(2).zip",
+    "member": "7. Naive-Bayes/planning/archive-before-20260917/notebook__pbl-machine-learning-basics-naive-bayes-lab-student.ipynb",
+    "reason": "teacher authoring drafts and render caches; original ZIP remains local"
+  },
+  {
+    "archive": "6.Naive-Bayes(2).zip",
+    "member": "7. Naive-Bayes/planning/archive-before-20260917/notebook__pbl-machine-learning-basics-naive-bayes-lab.ipynb",
+    "reason": "teacher authoring drafts and render caches; original ZIP remains local"
+  },
+  {
+    "archive": "6.Naive-Bayes(2).zip",
+    "member": "7. Naive-Bayes/planning/archive-before-20260917/package-manifest.json",
+    "reason": "teacher authoring drafts and render caches; original ZIP remains local"
+  },
+  {
+    "archive": "6.Naive-Bayes(2).zip",
+    "member": "7. Naive-Bayes/planning/archive-before-20260917/scripts__pbl-machine-learning-basics-naive-bayes-build.py",
+    "reason": "teacher authoring drafts and render caches; original ZIP remains local"
+  },
+  {
+    "archive": "6.Naive-Bayes(2).zip",
+    "member": "7. Naive-Bayes/planning/archive-v0-gpt-draft-20260917/analysis-design.json",
+    "reason": "teacher authoring drafts and render caches; original ZIP remains local"
+  },
+  {
+    "archive": "6.Naive-Bayes(2).zip",
+    "member": "7. Naive-Bayes/planning/archive-v0-gpt-draft-20260917/package-manifest.json",
+    "reason": "teacher authoring drafts and render caches; original ZIP remains local"
+  },
+  {
+    "archive": "6.Naive-Bayes(2).zip",
+    "member": "7. Naive-Bayes/planning/archive-v0-gpt-draft-20260917/pbl-machine-learning-basics-naive-bayes-build.py",
+    "reason": "teacher authoring drafts and render caches; original ZIP remains local"
+  },
+  {
+    "archive": "6.Naive-Bayes(2).zip",
+    "member": "7. Naive-Bayes/planning/archive-v0-gpt-draft-20260917/pbl-machine-learning-basics-naive-bayes-design-rationale.docx",
+    "reason": "teacher authoring drafts and render caches; original ZIP remains local"
+  },
+  {
+    "archive": "6.Naive-Bayes(2).zip",
+    "member": "7. Naive-Bayes/planning/archive-v0-gpt-draft-20260917/pbl-machine-learning-basics-naive-bayes-evidence-pack.docx",
+    "reason": "teacher authoring drafts and render caches; original ZIP remains local"
+  },
+  {
+    "archive": "6.Naive-Bayes(2).zip",
+    "member": "7. Naive-Bayes/planning/archive-v0-gpt-draft-20260917/pbl-machine-learning-basics-naive-bayes-student-worksheet.docx",
+    "reason": "teacher authoring drafts and render caches; original ZIP remains local"
+  },
+  {
+    "archive": "6.Naive-Bayes(2).zip",
+    "member": "7. Naive-Bayes/planning/archive-v0-gpt-draft-20260917/pbl-machine-learning-basics-naive-bayes-teaching-plan-flipped-classroom.docx",
+    "reason": "teacher authoring drafts and render caches; original ZIP remains local"
+  },
+  {
+    "archive": "6.Naive-Bayes(2).zip",
+    "member": "7. Naive-Bayes/planning/archive-v0-gpt-draft-20260917/review/design-check.md",
+    "reason": "teacher authoring drafts and render caches; original ZIP remains local"
+  },
+  {
+    "archive": "6.Naive-Bayes(2).zip",
+    "member": "7. Naive-Bayes/planning/archive-v0-gpt-draft-20260917/review/independent-pilot-review.md",
+    "reason": "teacher authoring drafts and render caches; original ZIP remains local"
+  },
+  {
+    "archive": "6.Naive-Bayes(2).zip",
+    "member": "7. Naive-Bayes/planning/archive-v0-gpt-draft-20260917/review/pbl-machine-learning-basics-naive-bayes-lint.md",
+    "reason": "teacher authoring drafts and render caches; original ZIP remains local"
+  },
+  {
+    "archive": "6.Naive-Bayes(2).zip",
+    "member": "7. Naive-Bayes/planning/archive-v0-gpt-draft-20260917/review/pilot-fields.json",
+    "reason": "teacher authoring drafts and render caches; original ZIP remains local"
+  },
+  {
+    "archive": "6.Naive-Bayes(2).zip",
+    "member": "7. Naive-Bayes/planning/artifacts/main-result-clean-vs-audit.png",
+    "reason": "teacher authoring drafts and render caches; original ZIP remains local"
+  },
+  {
+    "archive": "6.Naive-Bayes(2).zip",
+    "member": "7. Naive-Bayes/planning/artifacts/planning-clean-test-metrics.csv",
+    "reason": "teacher authoring drafts and render caches; original ZIP remains local"
+  },
+  {
+    "archive": "6.Naive-Bayes(2).zip",
+    "member": "7. Naive-Bayes/planning/artifacts/planning-clean-test-wilson-ci.csv",
+    "reason": "teacher authoring drafts and render caches; original ZIP remains local"
+  },
+  {
+    "archive": "6.Naive-Bayes(2).zip",
+    "member": "7. Naive-Bayes/planning/artifacts/planning-conditional-dependence.csv",
+    "reason": "teacher authoring drafts and render caches; original ZIP remains local"
+  },
+  {
+    "archive": "6.Naive-Bayes(2).zip",
+    "member": "7. Naive-Bayes/planning/artifacts/planning-dataset-summary.csv",
+    "reason": "teacher authoring drafts and render caches; original ZIP remains local"
+  },
+  {
+    "archive": "6.Naive-Bayes(2).zip",
+    "member": "7. Naive-Bayes/planning/artifacts/planning-duplicate-feature-audit.csv",
+    "reason": "teacher authoring drafts and render caches; original ZIP remains local"
+  },
+  {
+    "archive": "6.Naive-Bayes(2).zip",
+    "member": "7. Naive-Bayes/planning/artifacts/planning-measurement-error-stress.csv",
+    "reason": "teacher authoring drafts and render caches; original ZIP remains local"
+  },
+  {
+    "archive": "6.Naive-Bayes(2).zip",
+    "member": "7. Naive-Bayes/planning/artifacts/planning-validation-thresholds.csv",
+    "reason": "teacher authoring drafts and render caches; original ZIP remains local"
+  },
+  {
+    "archive": "6.Naive-Bayes(2).zip",
+    "member": "7. Naive-Bayes/planning/review-20260917/analysis-design-draft.json",
+    "reason": "teacher authoring drafts and render caches; original ZIP remains local"
+  },
+  {
+    "archive": "6.Naive-Bayes(2).zip",
+    "member": "7. Naive-Bayes/planning/review-20260917/course-coverage-draft.md",
+    "reason": "teacher authoring drafts and render caches; original ZIP remains local"
+  },
+  {
+    "archive": "6.Naive-Bayes(2).zip",
+    "member": "7. Naive-Bayes/planning/review-20260917/draft-design-check.md",
+    "reason": "teacher authoring drafts and render caches; original ZIP remains local"
+  },
+  {
+    "archive": "6.Naive-Bayes(2).zip",
+    "member": "7. Naive-Bayes/planning/review-20260917/existing-design-check.md",
+    "reason": "teacher authoring drafts and render caches; original ZIP remains local"
+  },
+  {
+    "archive": "6.Naive-Bayes(2).zip",
+    "member": "7. Naive-Bayes/planning/review-20260917/source-and-analysis-audit.json",
+    "reason": "teacher authoring drafts and render caches; original ZIP remains local"
+  },
+  {
+    "archive": "6.Naive-Bayes(2).zip",
+    "member": "7. Naive-Bayes/planning/review-20260917/validation-threshold-audit.csv",
+    "reason": "teacher authoring drafts and render caches; original ZIP remains local"
+  },
+  {
+    "archive": "6.Naive-Bayes(2).zip",
+    "member": "7. Naive-Bayes/planning/review-20260917/WORKPLAN-20260917.md",
+    "reason": "teacher authoring drafts and render caches; original ZIP remains local"
+  },
+  {
+    "archive": "6.Naive-Bayes(2).zip",
+    "member": "7. Naive-Bayes/planning/scripts/build_review_notebook.py",
+    "reason": "teacher authoring drafts and render caches; original ZIP remains local"
+  },
+  {
+    "archive": "6.Naive-Bayes(2).zip",
+    "member": "7. Naive-Bayes/planning/scripts/build_student_notebook.py",
+    "reason": "teacher authoring drafts and render caches; original ZIP remains local"
+  },
+  {
+    "archive": "6.Naive-Bayes(2).zip",
+    "member": "7. Naive-Bayes/planning/scripts/draft_design_20260917.py",
+    "reason": "teacher authoring drafts and render caches; original ZIP remains local"
+  },
+  {
+    "archive": "6.Naive-Bayes(2).zip",
+    "member": "7. Naive-Bayes/planning/scripts/explore_nb.py",
+    "reason": "teacher authoring drafts and render caches; original ZIP remains local"
+  },
+  {
+    "archive": "6.Naive-Bayes(2).zip",
+    "member": "7. Naive-Bayes/planning/scripts/fill_review_notebook.py",
+    "reason": "teacher authoring drafts and render caches; original ZIP remains local"
+  },
+  {
+    "archive": "6.Naive-Bayes(2).zip",
+    "member": "7. Naive-Bayes/planning/scripts/planning_analysis.py",
+    "reason": "teacher authoring drafts and render caches; original ZIP remains local"
+  },
+  {
+    "archive": "6.Naive-Bayes(2).zip",
+    "member": "7. Naive-Bayes/planning/scripts/review_20260917.py",
+    "reason": "teacher authoring drafts and render caches; original ZIP remains local"
+  },
+  {
+    "archive": "6.Naive-Bayes(2).zip",
+    "member": "7. Naive-Bayes/planning/source-data/acute-inflammations/diagnosis.data",
+    "reason": "teacher authoring drafts and render caches; original ZIP remains local"
+  },
+  {
+    "archive": "6.Naive-Bayes(2).zip",
+    "member": "7. Naive-Bayes/planning/source-data/acute-inflammations/diagnosis.names",
+    "reason": "teacher authoring drafts and render caches; original ZIP remains local"
+  },
+  {
+    "archive": "6.Naive-Bayes(2).zip",
+    "member": "7. Naive-Bayes/planning/source-data/acute-inflammations.zip",
+    "reason": "teacher authoring drafts and render caches; original ZIP remains local"
+  },
+  {
+    "archive": "6.Naive-Bayes(2).zip",
+    "member": "7. Naive-Bayes/review/design-check.md",
+    "reason": "teacher authoring drafts and render caches; original ZIP remains local"
+  },
+  {
+    "archive": "6.Naive-Bayes(2).zip",
+    "member": "7. Naive-Bayes/review/independent-pilot-review.md",
+    "reason": "teacher authoring drafts and render caches; original ZIP remains local"
+  },
+  {
+    "archive": "6.Naive-Bayes(2).zip",
+    "member": "7. Naive-Bayes/review/notebook-execution.json",
+    "reason": "teacher authoring drafts and render caches; original ZIP remains local"
+  },
+  {
+    "archive": "6.Naive-Bayes(2).zip",
+    "member": "7. Naive-Bayes/review/pbl-machine-learning-basics-naive-bayes-lab-executed.ipynb",
+    "reason": "teacher authoring drafts and render caches; original ZIP remains local"
+  },
+  {
+    "archive": "6.Naive-Bayes(2).zip",
+    "member": "7. Naive-Bayes/review/pbl-machine-learning-basics-naive-bayes-lint.md",
+    "reason": "teacher authoring drafts and render caches; original ZIP remains local"
+  },
+  {
+    "archive": "6.Naive-Bayes(2).zip",
+    "member": "7. Naive-Bayes/review/pbl-machine-learning-basics-naive-bayes-pilot-fill.docx",
+    "reason": "teacher authoring drafts and render caches; original ZIP remains local"
+  },
+  {
+    "archive": "6.Naive-Bayes(2).zip",
+    "member": "7. Naive-Bayes/review/pbl-machine-learning-basics-naive-bayes-pilot-report.md",
+    "reason": "teacher authoring drafts and render caches; original ZIP remains local"
+  },
+  {
+    "archive": "6.Naive-Bayes(2).zip",
+    "member": "7. Naive-Bayes/review/pilot-fields.json",
+    "reason": "teacher authoring drafts and render caches; original ZIP remains local"
+  },
+  {
+    "archive": "6.Naive-Bayes(2).zip",
+    "member": "7. Naive-Bayes/review/render-design-rationale/contact-1.png",
+    "reason": "teacher authoring drafts and render caches; original ZIP remains local"
+  },
+  {
+    "archive": "6.Naive-Bayes(2).zip",
+    "member": "7. Naive-Bayes/review/render-design-rationale/page-1.png",
+    "reason": "teacher authoring drafts and render caches; original ZIP remains local"
+  },
+  {
+    "archive": "6.Naive-Bayes(2).zip",
+    "member": "7. Naive-Bayes/review/render-design-rationale/page-2.png",
+    "reason": "teacher authoring drafts and render caches; original ZIP remains local"
+  },
+  {
+    "archive": "6.Naive-Bayes(2).zip",
+    "member": "7. Naive-Bayes/review/render-design-rationale/page-3.png",
+    "reason": "teacher authoring drafts and render caches; original ZIP remains local"
+  },
+  {
+    "archive": "6.Naive-Bayes(2).zip",
+    "member": "7. Naive-Bayes/review/render-design-rationale/page-4.png",
+    "reason": "teacher authoring drafts and render caches; original ZIP remains local"
+  },
+  {
+    "archive": "6.Naive-Bayes(2).zip",
+    "member": "7. Naive-Bayes/review/render-design-rationale/page-5.png",
+    "reason": "teacher authoring drafts and render caches; original ZIP remains local"
+  },
+  {
+    "archive": "6.Naive-Bayes(2).zip",
+    "member": "7. Naive-Bayes/review/render-design-rationale/page-6.png",
+    "reason": "teacher authoring drafts and render caches; original ZIP remains local"
+  },
+  {
+    "archive": "6.Naive-Bayes(2).zip",
+    "member": "7. Naive-Bayes/review/render-design-rationale/pbl-machine-learning-basics-naive-bayes-design-rationale.pdf",
+    "reason": "teacher authoring drafts and render caches; original ZIP remains local"
+  },
+  {
+    "archive": "6.Naive-Bayes(2).zip",
+    "member": "7. Naive-Bayes/review/render-design-rationale/text.txt",
+    "reason": "teacher authoring drafts and render caches; original ZIP remains local"
+  },
+  {
+    "archive": "6.Naive-Bayes(2).zip",
+    "member": "7. Naive-Bayes/review/render-evidence-pack/contact-1.png",
+    "reason": "teacher authoring drafts and render caches; original ZIP remains local"
+  },
+  {
+    "archive": "6.Naive-Bayes(2).zip",
+    "member": "7. Naive-Bayes/review/render-evidence-pack/contact-2.png",
+    "reason": "teacher authoring drafts and render caches; original ZIP remains local"
+  },
+  {
+    "archive": "6.Naive-Bayes(2).zip",
+    "member": "7. Naive-Bayes/review/render-evidence-pack/page-1.png",
+    "reason": "teacher authoring drafts and render caches; original ZIP remains local"
+  },
+  {
+    "archive": "6.Naive-Bayes(2).zip",
+    "member": "7. Naive-Bayes/review/render-evidence-pack/page-2.png",
+    "reason": "teacher authoring drafts and render caches; original ZIP remains local"
+  },
+  {
+    "archive": "6.Naive-Bayes(2).zip",
+    "member": "7. Naive-Bayes/review/render-evidence-pack/page-3.png",
+    "reason": "teacher authoring drafts and render caches; original ZIP remains local"
+  },
+  {
+    "archive": "6.Naive-Bayes(2).zip",
+    "member": "7. Naive-Bayes/review/render-evidence-pack/page-4.png",
+    "reason": "teacher authoring drafts and render caches; original ZIP remains local"
+  },
+  {
+    "archive": "6.Naive-Bayes(2).zip",
+    "member": "7. Naive-Bayes/review/render-evidence-pack/page-5.png",
+    "reason": "teacher authoring drafts and render caches; original ZIP remains local"
+  },
+  {
+    "archive": "6.Naive-Bayes(2).zip",
+    "member": "7. Naive-Bayes/review/render-evidence-pack/page-6.png",
+    "reason": "teacher authoring drafts and render caches; original ZIP remains local"
+  },
+  {
+    "archive": "6.Naive-Bayes(2).zip",
+    "member": "7. Naive-Bayes/review/render-evidence-pack/page-7.png",
+    "reason": "teacher authoring drafts and render caches; original ZIP remains local"
+  },
+  {
+    "archive": "6.Naive-Bayes(2).zip",
+    "member": "7. Naive-Bayes/review/render-evidence-pack/pbl-machine-learning-basics-naive-bayes-evidence-pack.pdf",
+    "reason": "teacher authoring drafts and render caches; original ZIP remains local"
+  },
+  {
+    "archive": "6.Naive-Bayes(2).zip",
+    "member": "7. Naive-Bayes/review/render-evidence-pack/text.txt",
+    "reason": "teacher authoring drafts and render caches; original ZIP remains local"
+  },
+  {
+    "archive": "6.Naive-Bayes(2).zip",
+    "member": "7. Naive-Bayes/review/render-student-worksheet/contact-1.png",
+    "reason": "teacher authoring drafts and render caches; original ZIP remains local"
+  },
+  {
+    "archive": "6.Naive-Bayes(2).zip",
+    "member": "7. Naive-Bayes/review/render-student-worksheet/contact-2.png",
+    "reason": "teacher authoring drafts and render caches; original ZIP remains local"
+  },
+  {
+    "archive": "6.Naive-Bayes(2).zip",
+    "member": "7. Naive-Bayes/review/render-student-worksheet/contact-3.png",
+    "reason": "teacher authoring drafts and render caches; original ZIP remains local"
+  },
+  {
+    "archive": "6.Naive-Bayes(2).zip",
+    "member": "7. Naive-Bayes/review/render-student-worksheet/contact-4.png",
+    "reason": "teacher authoring drafts and render caches; original ZIP remains local"
+  },
+  {
+    "archive": "6.Naive-Bayes(2).zip",
+    "member": "7. Naive-Bayes/review/render-student-worksheet/contact-5.png",
+    "reason": "teacher authoring drafts and render caches; original ZIP remains local"
+  },
+  {
+    "archive": "6.Naive-Bayes(2).zip",
+    "member": "7. Naive-Bayes/review/render-student-worksheet/page-01.png",
+    "reason": "teacher authoring drafts and render caches; original ZIP remains local"
+  },
+  {
+    "archive": "6.Naive-Bayes(2).zip",
+    "member": "7. Naive-Bayes/review/render-student-worksheet/page-02.png",
+    "reason": "teacher authoring drafts and render caches; original ZIP remains local"
+  },
+  {
+    "archive": "6.Naive-Bayes(2).zip",
+    "member": "7. Naive-Bayes/review/render-student-worksheet/page-03.png",
+    "reason": "teacher authoring drafts and render caches; original ZIP remains local"
+  },
+  {
+    "archive": "6.Naive-Bayes(2).zip",
+    "member": "7. Naive-Bayes/review/render-student-worksheet/page-04.png",
+    "reason": "teacher authoring drafts and render caches; original ZIP remains local"
+  },
+  {
+    "archive": "6.Naive-Bayes(2).zip",
+    "member": "7. Naive-Bayes/review/render-student-worksheet/page-05.png",
+    "reason": "teacher authoring drafts and render caches; original ZIP remains local"
+  },
+  {
+    "archive": "6.Naive-Bayes(2).zip",
+    "member": "7. Naive-Bayes/review/render-student-worksheet/page-06.png",
+    "reason": "teacher authoring drafts and render caches; original ZIP remains local"
+  },
+  {
+    "archive": "6.Naive-Bayes(2).zip",
+    "member": "7. Naive-Bayes/review/render-student-worksheet/page-07.png",
+    "reason": "teacher authoring drafts and render caches; original ZIP remains local"
+  },
+  {
+    "archive": "6.Naive-Bayes(2).zip",
+    "member": "7. Naive-Bayes/review/render-student-worksheet/page-08.png",
+    "reason": "teacher authoring drafts and render caches; original ZIP remains local"
+  },
+  {
+    "archive": "6.Naive-Bayes(2).zip",
+    "member": "7. Naive-Bayes/review/render-student-worksheet/page-09.png",
+    "reason": "teacher authoring drafts and render caches; original ZIP remains local"
+  },
+  {
+    "archive": "6.Naive-Bayes(2).zip",
+    "member": "7. Naive-Bayes/review/render-student-worksheet/page-10.png",
+    "reason": "teacher authoring drafts and render caches; original ZIP remains local"
+  },
+  {
+    "archive": "6.Naive-Bayes(2).zip",
+    "member": "7. Naive-Bayes/review/render-student-worksheet/page-11.png",
+    "reason": "teacher authoring drafts and render caches; original ZIP remains local"
+  },
+  {
+    "archive": "6.Naive-Bayes(2).zip",
+    "member": "7. Naive-Bayes/review/render-student-worksheet/page-12.png",
+    "reason": "teacher authoring drafts and render caches; original ZIP remains local"
+  },
+  {
+    "archive": "6.Naive-Bayes(2).zip",
+    "member": "7. Naive-Bayes/review/render-student-worksheet/page-13.png",
+    "reason": "teacher authoring drafts and render caches; original ZIP remains local"
+  },
+  {
+    "archive": "6.Naive-Bayes(2).zip",
+    "member": "7. Naive-Bayes/review/render-student-worksheet/page-14.png",
+    "reason": "teacher authoring drafts and render caches; original ZIP remains local"
+  },
+  {
+    "archive": "6.Naive-Bayes(2).zip",
+    "member": "7. Naive-Bayes/review/render-student-worksheet/page-15.png",
+    "reason": "teacher authoring drafts and render caches; original ZIP remains local"
+  },
+  {
+    "archive": "6.Naive-Bayes(2).zip",
+    "member": "7. Naive-Bayes/review/render-student-worksheet/page-16.png",
+    "reason": "teacher authoring drafts and render caches; original ZIP remains local"
+  },
+  {
+    "archive": "6.Naive-Bayes(2).zip",
+    "member": "7. Naive-Bayes/review/render-student-worksheet/page-17.png",
+    "reason": "teacher authoring drafts and render caches; original ZIP remains local"
+  },
+  {
+    "archive": "6.Naive-Bayes(2).zip",
+    "member": "7. Naive-Bayes/review/render-student-worksheet/page-18.png",
+    "reason": "teacher authoring drafts and render caches; original ZIP remains local"
+  },
+  {
+    "archive": "6.Naive-Bayes(2).zip",
+    "member": "7. Naive-Bayes/review/render-student-worksheet/page-19.png",
+    "reason": "teacher authoring drafts and render caches; original ZIP remains local"
+  },
+  {
+    "archive": "6.Naive-Bayes(2).zip",
+    "member": "7. Naive-Bayes/review/render-student-worksheet/page-20.png",
+    "reason": "teacher authoring drafts and render caches; original ZIP remains local"
+  },
+  {
+    "archive": "6.Naive-Bayes(2).zip",
+    "member": "7. Naive-Bayes/review/render-student-worksheet/page-21.png",
+    "reason": "teacher authoring drafts and render caches; original ZIP remains local"
+  },
+  {
+    "archive": "6.Naive-Bayes(2).zip",
+    "member": "7. Naive-Bayes/review/render-student-worksheet/page-22.png",
+    "reason": "teacher authoring drafts and render caches; original ZIP remains local"
+  },
+  {
+    "archive": "6.Naive-Bayes(2).zip",
+    "member": "7. Naive-Bayes/review/render-student-worksheet/page-23.png",
+    "reason": "teacher authoring drafts and render caches; original ZIP remains local"
+  },
+  {
+    "archive": "6.Naive-Bayes(2).zip",
+    "member": "7. Naive-Bayes/review/render-student-worksheet/page-24.png",
+    "reason": "teacher authoring drafts and render caches; original ZIP remains local"
+  },
+  {
+    "archive": "6.Naive-Bayes(2).zip",
+    "member": "7. Naive-Bayes/review/render-student-worksheet/page-25.png",
+    "reason": "teacher authoring drafts and render caches; original ZIP remains local"
+  },
+  {
+    "archive": "6.Naive-Bayes(2).zip",
+    "member": "7. Naive-Bayes/review/render-student-worksheet/pbl-machine-learning-basics-naive-bayes-student-worksheet.pdf",
+    "reason": "teacher authoring drafts and render caches; original ZIP remains local"
+  },
+  {
+    "archive": "6.Naive-Bayes(2).zip",
+    "member": "7. Naive-Bayes/review/render-student-worksheet/text.txt",
+    "reason": "teacher authoring drafts and render caches; original ZIP remains local"
+  },
+  {
+    "archive": "6.Naive-Bayes(2).zip",
+    "member": "7. Naive-Bayes/review/render-summary.json",
+    "reason": "teacher authoring drafts and render caches; original ZIP remains local"
+  },
+  {
+    "archive": "6.Naive-Bayes(2).zip",
+    "member": "7. Naive-Bayes/review/render-teaching-plan-flipped-classroom/contact-1.png",
+    "reason": "teacher authoring drafts and render caches; original ZIP remains local"
+  },
+  {
+    "archive": "6.Naive-Bayes(2).zip",
+    "member": "7. Naive-Bayes/review/render-teaching-plan-flipped-classroom/contact-2.png",
+    "reason": "teacher authoring drafts and render caches; original ZIP remains local"
+  },
+  {
+    "archive": "6.Naive-Bayes(2).zip",
+    "member": "7. Naive-Bayes/review/render-teaching-plan-flipped-classroom/page-01.png",
+    "reason": "teacher authoring drafts and render caches; original ZIP remains local"
+  },
+  {
+    "archive": "6.Naive-Bayes(2).zip",
+    "member": "7. Naive-Bayes/review/render-teaching-plan-flipped-classroom/page-02.png",
+    "reason": "teacher authoring drafts and render caches; original ZIP remains local"
+  },
+  {
+    "archive": "6.Naive-Bayes(2).zip",
+    "member": "7. Naive-Bayes/review/render-teaching-plan-flipped-classroom/page-03.png",
+    "reason": "teacher authoring drafts and render caches; original ZIP remains local"
+  },
+  {
+    "archive": "6.Naive-Bayes(2).zip",
+    "member": "7. Naive-Bayes/review/render-teaching-plan-flipped-classroom/page-04.png",
+    "reason": "teacher authoring drafts and render caches; original ZIP remains local"
+  },
+  {
+    "archive": "6.Naive-Bayes(2).zip",
+    "member": "7. Naive-Bayes/review/render-teaching-plan-flipped-classroom/page-05.png",
+    "reason": "teacher authoring drafts and render caches; original ZIP remains local"
+  },
+  {
+    "archive": "6.Naive-Bayes(2).zip",
+    "member": "7. Naive-Bayes/review/render-teaching-plan-flipped-classroom/page-06.png",
+    "reason": "teacher authoring drafts and render caches; original ZIP remains local"
+  },
+  {
+    "archive": "6.Naive-Bayes(2).zip",
+    "member": "7. Naive-Bayes/review/render-teaching-plan-flipped-classroom/page-07.png",
+    "reason": "teacher authoring drafts and render caches; original ZIP remains local"
+  },
+  {
+    "archive": "6.Naive-Bayes(2).zip",
+    "member": "7. Naive-Bayes/review/render-teaching-plan-flipped-classroom/page-08.png",
+    "reason": "teacher authoring drafts and render caches; original ZIP remains local"
+  },
+  {
+    "archive": "6.Naive-Bayes(2).zip",
+    "member": "7. Naive-Bayes/review/render-teaching-plan-flipped-classroom/page-09.png",
+    "reason": "teacher authoring drafts and render caches; original ZIP remains local"
+  },
+  {
+    "archive": "6.Naive-Bayes(2).zip",
+    "member": "7. Naive-Bayes/review/render-teaching-plan-flipped-classroom/page-10.png",
+    "reason": "teacher authoring drafts and render caches; original ZIP remains local"
+  },
+  {
+    "archive": "6.Naive-Bayes(2).zip",
+    "member": "7. Naive-Bayes/review/render-teaching-plan-flipped-classroom/pbl-machine-learning-basics-naive-bayes-teaching-plan-flipped-classroom.pdf",
+    "reason": "teacher authoring drafts and render caches; original ZIP remains local"
+  },
+  {
+    "archive": "6.Naive-Bayes(2).zip",
+    "member": "7. Naive-Bayes/review/render-teaching-plan-flipped-classroom/text.txt",
+    "reason": "teacher authoring drafts and render caches; original ZIP remains local"
+  },
+  {
+    "archive": "6.Naive-Bayes(2).zip",
+    "member": "7. Naive-Bayes/review/runtime-work/Diagnostics/WINWORD/Additional/Additional1789634799596907600_8E29BAF4-6CC3-4118-8D0F-CF72CCECE55D.log",
+    "reason": "teacher authoring drafts and render caches; original ZIP remains local"
+  },
+  {
+    "archive": "6.Naive-Bayes(2).zip",
+    "member": "7. Naive-Bayes/review/runtime-work/Diagnostics/WINWORD/Additional/Additional1789634831453136400_2010B2BB-F67D-4009-8262-884F67139B84.log",
+    "reason": "teacher authoring drafts and render caches; original ZIP remains local"
+  },
+  {
+    "archive": "6.Naive-Bayes(2).zip",
+    "member": "7. Naive-Bayes/review/runtime-work/Diagnostics/WINWORD/Additional/Additional1789634856071879600_010C8989-D9AD-4D0A-8745-BDE9DF60AFF9.log",
+    "reason": "teacher authoring drafts and render caches; original ZIP remains local"
+  },
+  {
+    "archive": "6.Naive-Bayes(2).zip",
+    "member": "7. Naive-Bayes/review/runtime-work/Diagnostics/WINWORD/Additional/Additional1789634979153726900_51677A28-A86F-4C22-B1B2-1299C90EE2A5.log",
+    "reason": "teacher authoring drafts and render caches; original ZIP remains local"
+  },
+  {
+    "archive": "6.Naive-Bayes(2).zip",
+    "member": "7. Naive-Bayes/review/runtime-work/Diagnostics/WINWORD/Additional/Additional1789635057230725400_852C4854-AB90-4535-986C-042D9245861C.log",
+    "reason": "teacher authoring drafts and render caches; original ZIP remains local"
+  },
+  {
+    "archive": "6.Naive-Bayes(2).zip",
+    "member": "7. Naive-Bayes/review/runtime-work/Diagnostics/WINWORD/Additional/Additional1789635224664546600_6E4284E9-C7C4-4AD1-8850-93DA699A78C7.log",
+    "reason": "teacher authoring drafts and render caches; original ZIP remains local"
+  },
+  {
+    "archive": "6.Naive-Bayes(2).zip",
+    "member": "7. Naive-Bayes/review/runtime-work/Diagnostics/WINWORD/Additional/Additional1789636834637707300_0A8A38DC-A883-4A7B-A0AF-92CB1D622859.log",
+    "reason": "teacher authoring drafts and render caches; original ZIP remains local"
+  },
+  {
+    "archive": "6.Naive-Bayes(2).zip",
+    "member": "7. Naive-Bayes/review/runtime-work/Diagnostics/WINWORD/Additional/Additional1789636949043112100_4631E490-905F-4C8D-AC46-F4B750CE96E6.log",
+    "reason": "teacher authoring drafts and render caches; original ZIP remains local"
+  },
+  {
+    "archive": "6.Naive-Bayes(2).zip",
+    "member": "7. Naive-Bayes/review/runtime-work/Diagnostics/WINWORD/Additional/Additional1789637486138561900_8AB78616-B696-4BB8-A154-F9DC3B096CE6.log",
+    "reason": "teacher authoring drafts and render caches; original ZIP remains local"
+  },
+  {
+    "archive": "6.Naive-Bayes(2).zip",
+    "member": "7. Naive-Bayes/review/runtime-work/Diagnostics/WINWORD/Additional/Additional1789637565239996200_D18F7F7F-5FCB-4DB2-AD2F-6C86C80F02A3.log",
+    "reason": "teacher authoring drafts and render caches; original ZIP remains local"
+  },
+  {
+    "archive": "6.Naive-Bayes(2).zip",
+    "member": "7. Naive-Bayes/review/runtime-work/Diagnostics/WINWORD/Additional/Additional1789637565240229000_D18F7F7F-5FCB-4DB2-AD2F-6C86C80F02A3.log",
+    "reason": "teacher authoring drafts and render caches; original ZIP remains local"
+  },
+  {
+    "archive": "6.Naive-Bayes(2).zip",
+    "member": "7. Naive-Bayes/review/runtime-work/Diagnostics/WINWORD/Primary1789634799596062000_8E29BAF4-6CC3-4118-8D0F-CF72CCECE55D.log",
+    "reason": "teacher authoring drafts and render caches; original ZIP remains local"
+  },
+  {
+    "archive": "6.Naive-Bayes(2).zip",
+    "member": "7. Naive-Bayes/review/runtime-work/Diagnostics/WINWORD/Primary1789634831447611500_2010B2BB-F67D-4009-8262-884F67139B84.log",
+    "reason": "teacher authoring drafts and render caches; original ZIP remains local"
+  },
+  {
+    "archive": "6.Naive-Bayes(2).zip",
+    "member": "7. Naive-Bayes/review/runtime-work/Diagnostics/WINWORD/Primary1789634856070585700_010C8989-D9AD-4D0A-8745-BDE9DF60AFF9.log",
+    "reason": "teacher authoring drafts and render caches; original ZIP remains local"
+  },
+  {
+    "archive": "6.Naive-Bayes(2).zip",
+    "member": "7. Naive-Bayes/review/runtime-work/Diagnostics/WINWORD/Primary1789634979152377600_51677A28-A86F-4C22-B1B2-1299C90EE2A5.log",
+    "reason": "teacher authoring drafts and render caches; original ZIP remains local"
+  },
+  {
+    "archive": "6.Naive-Bayes(2).zip",
+    "member": "7. Naive-Bayes/review/runtime-work/Diagnostics/WINWORD/Primary1789635057229603900_852C4854-AB90-4535-986C-042D9245861C.log",
+    "reason": "teacher authoring drafts and render caches; original ZIP remains local"
+  },
+  {
+    "archive": "6.Naive-Bayes(2).zip",
+    "member": "7. Naive-Bayes/review/runtime-work/Diagnostics/WINWORD/Primary1789635224662835800_6E4284E9-C7C4-4AD1-8850-93DA699A78C7.log",
+    "reason": "teacher authoring drafts and render caches; original ZIP remains local"
+  },
+  {
+    "archive": "6.Naive-Bayes(2).zip",
+    "member": "7. Naive-Bayes/review/runtime-work/Diagnostics/WINWORD/Primary1789636834635270800_0A8A38DC-A883-4A7B-A0AF-92CB1D622859.log",
+    "reason": "teacher authoring drafts and render caches; original ZIP remains local"
+  },
+  {
+    "archive": "6.Naive-Bayes(2).zip",
+    "member": "7. Naive-Bayes/review/runtime-work/Diagnostics/WINWORD/Primary1789636949040662900_4631E490-905F-4C8D-AC46-F4B750CE96E6.log",
+    "reason": "teacher authoring drafts and render caches; original ZIP remains local"
+  },
+  {
+    "archive": "6.Naive-Bayes(2).zip",
+    "member": "7. Naive-Bayes/review/runtime-work/Diagnostics/WINWORD/Primary1789637486133569900_8AB78616-B696-4BB8-A154-F9DC3B096CE6.log",
+    "reason": "teacher authoring drafts and render caches; original ZIP remains local"
+  },
+  {
+    "archive": "6.Naive-Bayes(2).zip",
+    "member": "7. Naive-Bayes/review/runtime-work/Diagnostics/WINWORD/Primary1789637565237576200_D18F7F7F-5FCB-4DB2-AD2F-6C86C80F02A3.log",
+    "reason": "teacher authoring drafts and render caches; original ZIP remains local"
+  },
+  {
+    "archive": "6.Naive-Bayes(2).zip",
+    "member": "7. Naive-Bayes/review/runtime-work/Diagnostics/WINWORD/Primary1789637565237799800_D18F7F7F-5FCB-4DB2-AD2F-6C86C80F02A3.log",
+    "reason": "teacher authoring drafts and render caches; original ZIP remains local"
+  },
+  {
+    "archive": "6.Naive-Bayes(2).zip",
+    "member": "7. Naive-Bayes/review/runtime-work/gen_py/3.14/dicts.dat",
+    "reason": "teacher authoring drafts and render caches; original ZIP remains local"
+  },
+  {
+    "archive": "6.Naive-Bayes(2).zip",
+    "member": "7. Naive-Bayes/review/runtime-work/gen_py/3.14/__init__.py",
+    "reason": "teacher authoring drafts and render caches; original ZIP remains local"
+  },
+  {
+    "archive": "6.Naive-Bayes(2).zip",
+    "member": "7. Naive-Bayes/scripts/__pycache__/pbl-machine-learning-basics-naive-bayes-build.cpython-314.pyc",
+    "reason": "cache or repository metadata"
+  },
+  {
+    "archive": "7. Linear-models(1).zip",
+    "member": "8. Linear-models/.gitkeep",
+    "reason": "temporary or empty marker"
+  },
+  {
+    "archive": "7. Linear-models(1).zip",
+    "member": "8. Linear-models/planning/analyze_lesson8.py",
+    "reason": "teacher authoring drafts and render caches; original ZIP remains local"
+  },
+  {
+    "archive": "7. Linear-models(1).zip",
+    "member": "8. Linear-models/planning/build_review_notebook.py",
+    "reason": "teacher authoring drafts and render caches; original ZIP remains local"
+  },
+  {
+    "archive": "7. Linear-models(1).zip",
+    "member": "8. Linear-models/planning/review-20260917/planning-coefficients.csv",
+    "reason": "teacher authoring drafts and render caches; original ZIP remains local"
+  },
+  {
+    "archive": "7. Linear-models(1).zip",
+    "member": "8. Linear-models/planning/review-20260917/planning-data-audit.json",
+    "reason": "teacher authoring drafts and render caches; original ZIP remains local"
+  },
+  {
+    "archive": "7. Linear-models(1).zip",
+    "member": "8. Linear-models/planning/review-20260917/planning-full-model-coefficients.csv",
+    "reason": "teacher authoring drafts and render caches; original ZIP remains local"
+  },
+  {
+    "archive": "7. Linear-models(1).zip",
+    "member": "8. Linear-models/planning/review-20260917/planning-main-evidence.png",
+    "reason": "teacher authoring drafts and render caches; original ZIP remains local"
+  },
+  {
+    "archive": "7. Linear-models(1).zip",
+    "member": "8. Linear-models/planning/review-20260917/planning-training-assumptions.csv",
+    "reason": "teacher authoring drafts and render caches; original ZIP remains local"
+  },
+  {
+    "archive": "7. Linear-models(1).zip",
+    "member": "8. Linear-models/planning/review-20260917/planning-validation.csv",
+    "reason": "teacher authoring drafts and render caches; original ZIP remains local"
+  },
+  {
+    "archive": "7. Linear-models(1).zip",
+    "member": "8. Linear-models/planning/review-20260917/review_analysis.py",
+    "reason": "teacher authoring drafts and render caches; original ZIP remains local"
+  },
+  {
+    "archive": "7. Linear-models(1).zip",
+    "member": "8. Linear-models/planning/review-20260917/WORKPLAN-20260917.md",
+    "reason": "teacher authoring drafts and render caches; original ZIP remains local"
+  },
+  {
+    "archive": "7. Linear-models(1).zip",
+    "member": "8. Linear-models/planning/temporary-analysis-summary.json",
+    "reason": "teacher authoring drafts and render caches; original ZIP remains local"
+  },
+  {
+    "archive": "7. Linear-models(1).zip",
+    "member": "8. Linear-models/planning/temporary-locked-test-bootstrap-ci.csv",
+    "reason": "teacher authoring drafts and render caches; original ZIP remains local"
+  },
+  {
+    "archive": "7. Linear-models(1).zip",
+    "member": "8. Linear-models/planning/temporary-locked-test.csv",
+    "reason": "teacher authoring drafts and render caches; original ZIP remains local"
+  },
+  {
+    "archive": "7. Linear-models(1).zip",
+    "member": "8. Linear-models/planning/temporary-logistic-coefficient-bootstrap.csv",
+    "reason": "teacher authoring drafts and render caches; original ZIP remains local"
+  },
+  {
+    "archive": "7. Linear-models(1).zip",
+    "member": "8. Linear-models/planning/temporary-main-result.png",
+    "reason": "teacher authoring drafts and render caches; original ZIP remains local"
+  },
+  {
+    "archive": "7. Linear-models(1).zip",
+    "member": "8. Linear-models/planning/temporary-repeated-cv.csv",
+    "reason": "teacher authoring drafts and render caches; original ZIP remains local"
+  },
+  {
+    "archive": "7. Linear-models(1).zip",
+    "member": "8. Linear-models/planning/temporary-threshold-audit.csv",
+    "reason": "teacher authoring drafts and render caches; original ZIP remains local"
+  },
+  {
+    "archive": "7. Linear-models(1).zip",
+    "member": "8. Linear-models/planning/__pycache__/build_review_notebook.cpython-314.pyc",
+    "reason": "cache or repository metadata"
+  },
+  {
+    "archive": "9. SVM(3).zip",
+    "member": "9. SVM/.gitkeep",
+    "reason": "temporary or empty marker"
+  },
+  {
+    "archive": "9. SVM(3).zip",
+    "member": "9. SVM/data/teacher/all-measurements.csv",
+    "reason": "teacher-only labels/manifests excluded from student submission"
+  },
+  {
+    "archive": "9. SVM(3).zip",
+    "member": "9. SVM/data/teacher/locked-test-labels.csv",
+    "reason": "teacher-only labels/manifests excluded from student submission"
+  },
+  {
+    "archive": "9. SVM(3).zip",
+    "member": "9. SVM/data/teacher/split-manifest.json",
+    "reason": "teacher-only labels/manifests excluded from student submission"
+  },
+  {
+    "archive": "9. SVM(3).zip",
+    "member": "9. SVM/planning/archive-v0-gpt-draft-20260918/assets/analysis-design.json",
+    "reason": "teacher authoring drafts and render caches; original ZIP remains local"
+  },
+  {
+    "archive": "9. SVM(3).zip",
+    "member": "9. SVM/planning/archive-v0-gpt-draft-20260918/package-manifest.json",
+    "reason": "teacher authoring drafts and render caches; original ZIP remains local"
+  },
+  {
+    "archive": "9. SVM(3).zip",
+    "member": "9. SVM/planning/archive-v0-gpt-draft-20260918/pbl-svm-margin-design-rationale.docx",
+    "reason": "teacher authoring drafts and render caches; original ZIP remains local"
+  },
+  {
+    "archive": "9. SVM(3).zip",
+    "member": "9. SVM/planning/archive-v0-gpt-draft-20260918/pbl-svm-margin-evidence-pack.docx",
+    "reason": "teacher authoring drafts and render caches; original ZIP remains local"
+  },
+  {
+    "archive": "9. SVM(3).zip",
+    "member": "9. SVM/planning/archive-v0-gpt-draft-20260918/pbl-svm-margin-student-worksheet.docx",
+    "reason": "teacher authoring drafts and render caches; original ZIP remains local"
+  },
+  {
+    "archive": "9. SVM(3).zip",
+    "member": "9. SVM/planning/archive-v0-gpt-draft-20260918/pbl-svm-margin-teaching-plan-flipped-classroom.docx",
+    "reason": "teacher authoring drafts and render caches; original ZIP remains local"
+  },
+  {
+    "archive": "9. SVM(3).zip",
+    "member": "9. SVM/planning/archive-v0-gpt-draft-20260918/README-gpt-v0.md",
+    "reason": "teacher authoring drafts and render caches; original ZIP remains local"
+  },
+  {
+    "archive": "9. SVM(3).zip",
+    "member": "9. SVM/planning/archive-v0-gpt-draft-20260918/README.md",
+    "reason": "teacher authoring drafts and render caches; original ZIP remains local"
+  },
+  {
+    "archive": "9. SVM(3).zip",
+    "member": "9. SVM/planning/archive-v0-gpt-draft-20260918/review/cold-read-audit.md",
+    "reason": "teacher authoring drafts and render caches; original ZIP remains local"
+  },
+  {
+    "archive": "9. SVM(3).zip",
+    "member": "9. SVM/planning/archive-v0-gpt-draft-20260918/review/course-content-review.md",
+    "reason": "teacher authoring drafts and render caches; original ZIP remains local"
+  },
+  {
+    "archive": "9. SVM(3).zip",
+    "member": "9. SVM/planning/archive-v0-gpt-draft-20260918/review/design-rationale-text.txt",
+    "reason": "teacher authoring drafts and render caches; original ZIP remains local"
+  },
+  {
+    "archive": "9. SVM(3).zip",
+    "member": "9. SVM/planning/archive-v0-gpt-draft-20260918/review/evidence-pack-text.txt",
+    "reason": "teacher authoring drafts and render caches; original ZIP remains local"
+  },
+  {
+    "archive": "9. SVM(3).zip",
+    "member": "9. SVM/planning/archive-v0-gpt-draft-20260918/review/pbl-svm-margin-design-check.md",
+    "reason": "teacher authoring drafts and render caches; original ZIP remains local"
+  },
+  {
+    "archive": "9. SVM(3).zip",
+    "member": "9. SVM/planning/archive-v0-gpt-draft-20260918/review/pbl-svm-margin-lint.md",
+    "reason": "teacher authoring drafts and render caches; original ZIP remains local"
+  },
+  {
+    "archive": "9. SVM(3).zip",
+    "member": "9. SVM/planning/archive-v0-gpt-draft-20260918/review/pbl-svm-margin-pilot-fill.docx",
+    "reason": "teacher authoring drafts and render caches; original ZIP remains local"
+  },
+  {
+    "archive": "9. SVM(3).zip",
+    "member": "9. SVM/planning/archive-v0-gpt-draft-20260918/review/pbl-svm-margin-pilot-report.md",
+    "reason": "teacher authoring drafts and render caches; original ZIP remains local"
+  },
+  {
+    "archive": "9. SVM(3).zip",
+    "member": "9. SVM/planning/archive-v0-gpt-draft-20260918/review/pilot-fields.json",
+    "reason": "teacher authoring drafts and render caches; original ZIP remains local"
+  },
+  {
+    "archive": "9. SVM(3).zip",
+    "member": "9. SVM/planning/archive-v0-gpt-draft-20260918/review/release-verification.json",
+    "reason": "teacher authoring drafts and render caches; original ZIP remains local"
+  },
+  {
+    "archive": "9. SVM(3).zip",
+    "member": "9. SVM/planning/archive-v0-gpt-draft-20260918/review/render-stats.json",
+    "reason": "teacher authoring drafts and render caches; original ZIP remains local"
+  },
+  {
+    "archive": "9. SVM(3).zip",
+    "member": "9. SVM/planning/archive-v0-gpt-draft-20260918/review/rendered/01-启动与追踪表/contact-01.png",
+    "reason": "teacher authoring drafts and render caches; original ZIP remains local"
+  },
+  {
+    "archive": "9. SVM(3).zip",
+    "member": "9. SVM/planning/archive-v0-gpt-draft-20260918/review/rendered/01-启动与追踪表/contact-02.png",
+    "reason": "teacher authoring drafts and render caches; original ZIP remains local"
+  },
+  {
+    "archive": "9. SVM(3).zip",
+    "member": "9. SVM/planning/archive-v0-gpt-draft-20260918/review/rendered/01-启动与追踪表/page-01.png",
+    "reason": "teacher authoring drafts and render caches; original ZIP remains local"
+  },
+  {
+    "archive": "9. SVM(3).zip",
+    "member": "9. SVM/planning/archive-v0-gpt-draft-20260918/review/rendered/01-启动与追踪表/page-01.txt",
+    "reason": "teacher authoring drafts and render caches; original ZIP remains local"
+  },
+  {
+    "archive": "9. SVM(3).zip",
+    "member": "9. SVM/planning/archive-v0-gpt-draft-20260918/review/rendered/01-启动与追踪表/page-02.png",
+    "reason": "teacher authoring drafts and render caches; original ZIP remains local"
+  },
+  {
+    "archive": "9. SVM(3).zip",
+    "member": "9. SVM/planning/archive-v0-gpt-draft-20260918/review/rendered/01-启动与追踪表/page-02.txt",
+    "reason": "teacher authoring drafts and render caches; original ZIP remains local"
+  },
+  {
+    "archive": "9. SVM(3).zip",
+    "member": "9. SVM/planning/archive-v0-gpt-draft-20260918/review/rendered/01-启动与追踪表/page-03.png",
+    "reason": "teacher authoring drafts and render caches; original ZIP remains local"
+  },
+  {
+    "archive": "9. SVM(3).zip",
+    "member": "9. SVM/planning/archive-v0-gpt-draft-20260918/review/rendered/01-启动与追踪表/page-03.txt",
+    "reason": "teacher authoring drafts and render caches; original ZIP remains local"
+  },
+  {
+    "archive": "9. SVM(3).zip",
+    "member": "9. SVM/planning/archive-v0-gpt-draft-20260918/review/rendered/01-启动与追踪表/page-04.png",
+    "reason": "teacher authoring drafts and render caches; original ZIP remains local"
+  },
+  {
+    "archive": "9. SVM(3).zip",
+    "member": "9. SVM/planning/archive-v0-gpt-draft-20260918/review/rendered/01-启动与追踪表/page-04.txt",
+    "reason": "teacher authoring drafts and render caches; original ZIP remains local"
+  },
+  {
+    "archive": "9. SVM(3).zip",
+    "member": "9. SVM/planning/archive-v0-gpt-draft-20260918/review/rendered/01-启动与追踪表/page-05.png",
+    "reason": "teacher authoring drafts and render caches; original ZIP remains local"
+  },
+  {
+    "archive": "9. SVM(3).zip",
+    "member": "9. SVM/planning/archive-v0-gpt-draft-20260918/review/rendered/01-启动与追踪表/page-05.txt",
+    "reason": "teacher authoring drafts and render caches; original ZIP remains local"
+  },
+  {
+    "archive": "9. SVM(3).zip",
+    "member": "9. SVM/planning/archive-v0-gpt-draft-20260918/review/rendered/01-启动与追踪表/page-06.png",
+    "reason": "teacher authoring drafts and render caches; original ZIP remains local"
+  },
+  {
+    "archive": "9. SVM(3).zip",
+    "member": "9. SVM/planning/archive-v0-gpt-draft-20260918/review/rendered/01-启动与追踪表/page-06.txt",
+    "reason": "teacher authoring drafts and render caches; original ZIP remains local"
+  },
+  {
+    "archive": "9. SVM(3).zip",
+    "member": "9. SVM/planning/archive-v0-gpt-draft-20260918/review/rendered/01-启动与追踪表.pdf",
+    "reason": "teacher authoring drafts and render caches; original ZIP remains local"
+  },
+  {
+    "archive": "9. SVM(3).zip",
+    "member": "9. SVM/planning/archive-v0-gpt-draft-20260918/review/rendered/02-Packet-A/contact-01.png",
+    "reason": "teacher authoring drafts and render caches; original ZIP remains local"
+  },
+  {
+    "archive": "9. SVM(3).zip",
+    "member": "9. SVM/planning/archive-v0-gpt-draft-20260918/review/rendered/02-Packet-A/page-01.png",
+    "reason": "teacher authoring drafts and render caches; original ZIP remains local"
+  },
+  {
+    "archive": "9. SVM(3).zip",
+    "member": "9. SVM/planning/archive-v0-gpt-draft-20260918/review/rendered/02-Packet-A/page-01.txt",
+    "reason": "teacher authoring drafts and render caches; original ZIP remains local"
+  },
+  {
+    "archive": "9. SVM(3).zip",
+    "member": "9. SVM/planning/archive-v0-gpt-draft-20260918/review/rendered/02-Packet-A/page-02.png",
+    "reason": "teacher authoring drafts and render caches; original ZIP remains local"
+  },
+  {
+    "archive": "9. SVM(3).zip",
+    "member": "9. SVM/planning/archive-v0-gpt-draft-20260918/review/rendered/02-Packet-A/page-02.txt",
+    "reason": "teacher authoring drafts and render caches; original ZIP remains local"
+  },
+  {
+    "archive": "9. SVM(3).zip",
+    "member": "9. SVM/planning/archive-v0-gpt-draft-20260918/review/rendered/02-Packet-A.pdf",
+    "reason": "teacher authoring drafts and render caches; original ZIP remains local"
+  },
+  {
+    "archive": "9. SVM(3).zip",
+    "member": "9. SVM/planning/archive-v0-gpt-draft-20260918/review/rendered/03-Packet-B/contact-01.png",
+    "reason": "teacher authoring drafts and render caches; original ZIP remains local"
+  },
+  {
+    "archive": "9. SVM(3).zip",
+    "member": "9. SVM/planning/archive-v0-gpt-draft-20260918/review/rendered/03-Packet-B/page-01.png",
+    "reason": "teacher authoring drafts and render caches; original ZIP remains local"
+  },
+  {
+    "archive": "9. SVM(3).zip",
+    "member": "9. SVM/planning/archive-v0-gpt-draft-20260918/review/rendered/03-Packet-B/page-01.txt",
+    "reason": "teacher authoring drafts and render caches; original ZIP remains local"
+  },
+  {
+    "archive": "9. SVM(3).zip",
+    "member": "9. SVM/planning/archive-v0-gpt-draft-20260918/review/rendered/03-Packet-B/page-02.png",
+    "reason": "teacher authoring drafts and render caches; original ZIP remains local"
+  },
+  {
+    "archive": "9. SVM(3).zip",
+    "member": "9. SVM/planning/archive-v0-gpt-draft-20260918/review/rendered/03-Packet-B/page-02.txt",
+    "reason": "teacher authoring drafts and render caches; original ZIP remains local"
+  },
+  {
+    "archive": "9. SVM(3).zip",
+    "member": "9. SVM/planning/archive-v0-gpt-draft-20260918/review/rendered/03-Packet-B/page-03.png",
+    "reason": "teacher authoring drafts and render caches; original ZIP remains local"
+  },
+  {
+    "archive": "9. SVM(3).zip",
+    "member": "9. SVM/planning/archive-v0-gpt-draft-20260918/review/rendered/03-Packet-B/page-03.txt",
+    "reason": "teacher authoring drafts and render caches; original ZIP remains local"
+  },
+  {
+    "archive": "9. SVM(3).zip",
+    "member": "9. SVM/planning/archive-v0-gpt-draft-20260918/review/rendered/03-Packet-B.pdf",
+    "reason": "teacher authoring drafts and render caches; original ZIP remains local"
+  },
+  {
+    "archive": "9. SVM(3).zip",
+    "member": "9. SVM/planning/archive-v0-gpt-draft-20260918/review/rendered/04-Packet-C/contact-01.png",
+    "reason": "teacher authoring drafts and render caches; original ZIP remains local"
+  },
+  {
+    "archive": "9. SVM(3).zip",
+    "member": "9. SVM/planning/archive-v0-gpt-draft-20260918/review/rendered/04-Packet-C/page-01.png",
+    "reason": "teacher authoring drafts and render caches; original ZIP remains local"
+  },
+  {
+    "archive": "9. SVM(3).zip",
+    "member": "9. SVM/planning/archive-v0-gpt-draft-20260918/review/rendered/04-Packet-C/page-01.txt",
+    "reason": "teacher authoring drafts and render caches; original ZIP remains local"
+  },
+  {
+    "archive": "9. SVM(3).zip",
+    "member": "9. SVM/planning/archive-v0-gpt-draft-20260918/review/rendered/04-Packet-C/page-02.png",
+    "reason": "teacher authoring drafts and render caches; original ZIP remains local"
+  },
+  {
+    "archive": "9. SVM(3).zip",
+    "member": "9. SVM/planning/archive-v0-gpt-draft-20260918/review/rendered/04-Packet-C/page-02.txt",
+    "reason": "teacher authoring drafts and render caches; original ZIP remains local"
+  },
+  {
+    "archive": "9. SVM(3).zip",
+    "member": "9. SVM/planning/archive-v0-gpt-draft-20260918/review/rendered/04-Packet-C/page-03.png",
+    "reason": "teacher authoring drafts and render caches; original ZIP remains local"
+  },
+  {
+    "archive": "9. SVM(3).zip",
+    "member": "9. SVM/planning/archive-v0-gpt-draft-20260918/review/rendered/04-Packet-C/page-03.txt",
+    "reason": "teacher authoring drafts and render caches; original ZIP remains local"
+  },
+  {
+    "archive": "9. SVM(3).zip",
+    "member": "9. SVM/planning/archive-v0-gpt-draft-20260918/review/rendered/04-Packet-C/page-04.png",
+    "reason": "teacher authoring drafts and render caches; original ZIP remains local"
+  },
+  {
+    "archive": "9. SVM(3).zip",
+    "member": "9. SVM/planning/archive-v0-gpt-draft-20260918/review/rendered/04-Packet-C/page-04.txt",
+    "reason": "teacher authoring drafts and render caches; original ZIP remains local"
+  },
+  {
+    "archive": "9. SVM(3).zip",
+    "member": "9. SVM/planning/archive-v0-gpt-draft-20260918/review/rendered/04-Packet-C.pdf",
+    "reason": "teacher authoring drafts and render caches; original ZIP remains local"
+  },
+  {
+    "archive": "9. SVM(3).zip",
+    "member": "9. SVM/planning/archive-v0-gpt-draft-20260918/review/rendered/05-Packet-D与综合/contact-01.png",
+    "reason": "teacher authoring drafts and render caches; original ZIP remains local"
+  },
+  {
+    "archive": "9. SVM(3).zip",
+    "member": "9. SVM/planning/archive-v0-gpt-draft-20260918/review/rendered/05-Packet-D与综合/page-01.png",
+    "reason": "teacher authoring drafts and render caches; original ZIP remains local"
+  },
+  {
+    "archive": "9. SVM(3).zip",
+    "member": "9. SVM/planning/archive-v0-gpt-draft-20260918/review/rendered/05-Packet-D与综合/page-01.txt",
+    "reason": "teacher authoring drafts and render caches; original ZIP remains local"
+  },
+  {
+    "archive": "9. SVM(3).zip",
+    "member": "9. SVM/planning/archive-v0-gpt-draft-20260918/review/rendered/05-Packet-D与综合/page-02.png",
+    "reason": "teacher authoring drafts and render caches; original ZIP remains local"
+  },
+  {
+    "archive": "9. SVM(3).zip",
+    "member": "9. SVM/planning/archive-v0-gpt-draft-20260918/review/rendered/05-Packet-D与综合/page-02.txt",
+    "reason": "teacher authoring drafts and render caches; original ZIP remains local"
+  },
+  {
+    "archive": "9. SVM(3).zip",
+    "member": "9. SVM/planning/archive-v0-gpt-draft-20260918/review/rendered/05-Packet-D与综合/page-03.png",
+    "reason": "teacher authoring drafts and render caches; original ZIP remains local"
+  },
+  {
+    "archive": "9. SVM(3).zip",
+    "member": "9. SVM/planning/archive-v0-gpt-draft-20260918/review/rendered/05-Packet-D与综合/page-03.txt",
+    "reason": "teacher authoring drafts and render caches; original ZIP remains local"
+  },
+  {
+    "archive": "9. SVM(3).zip",
+    "member": "9. SVM/planning/archive-v0-gpt-draft-20260918/review/rendered/05-Packet-D与综合/page-04.png",
+    "reason": "teacher authoring drafts and render caches; original ZIP remains local"
+  },
+  {
+    "archive": "9. SVM(3).zip",
+    "member": "9. SVM/planning/archive-v0-gpt-draft-20260918/review/rendered/05-Packet-D与综合/page-04.txt",
+    "reason": "teacher authoring drafts and render caches; original ZIP remains local"
+  },
+  {
+    "archive": "9. SVM(3).zip",
+    "member": "9. SVM/planning/archive-v0-gpt-draft-20260918/review/rendered/05-Packet-D与综合.pdf",
+    "reason": "teacher authoring drafts and render caches; original ZIP remains local"
+  },
+  {
+    "archive": "9. SVM(3).zip",
+    "member": "9. SVM/planning/archive-v0-gpt-draft-20260918/review/rendered/06-翻转课堂与入口/contact-01.png",
+    "reason": "teacher authoring drafts and render caches; original ZIP remains local"
+  },
+  {
+    "archive": "9. SVM(3).zip",
+    "member": "9. SVM/planning/archive-v0-gpt-draft-20260918/review/rendered/06-翻转课堂与入口/page-01.png",
+    "reason": "teacher authoring drafts and render caches; original ZIP remains local"
+  },
+  {
+    "archive": "9. SVM(3).zip",
+    "member": "9. SVM/planning/archive-v0-gpt-draft-20260918/review/rendered/06-翻转课堂与入口/page-01.txt",
+    "reason": "teacher authoring drafts and render caches; original ZIP remains local"
+  },
+  {
+    "archive": "9. SVM(3).zip",
+    "member": "9. SVM/planning/archive-v0-gpt-draft-20260918/review/rendered/06-翻转课堂与入口/page-02.png",
+    "reason": "teacher authoring drafts and render caches; original ZIP remains local"
+  },
+  {
+    "archive": "9. SVM(3).zip",
+    "member": "9. SVM/planning/archive-v0-gpt-draft-20260918/review/rendered/06-翻转课堂与入口/page-02.txt",
+    "reason": "teacher authoring drafts and render caches; original ZIP remains local"
+  },
+  {
+    "archive": "9. SVM(3).zip",
+    "member": "9. SVM/planning/archive-v0-gpt-draft-20260918/review/rendered/06-翻转课堂与入口.pdf",
+    "reason": "teacher authoring drafts and render caches; original ZIP remains local"
+  },
+  {
+    "archive": "9. SVM(3).zip",
+    "member": "9. SVM/planning/archive-v0-gpt-draft-20260918/review/rendered/pbl-svm-margin-design-rationale/contact-01.png",
+    "reason": "teacher authoring drafts and render caches; original ZIP remains local"
+  },
+  {
+    "archive": "9. SVM(3).zip",
+    "member": "9. SVM/planning/archive-v0-gpt-draft-20260918/review/rendered/pbl-svm-margin-design-rationale/page-01.png",
+    "reason": "teacher authoring drafts and render caches; original ZIP remains local"
+  },
+  {
+    "archive": "9. SVM(3).zip",
+    "member": "9. SVM/planning/archive-v0-gpt-draft-20260918/review/rendered/pbl-svm-margin-design-rationale/page-01.txt",
+    "reason": "teacher authoring drafts and render caches; original ZIP remains local"
+  },
+  {
+    "archive": "9. SVM(3).zip",
+    "member": "9. SVM/planning/archive-v0-gpt-draft-20260918/review/rendered/pbl-svm-margin-design-rationale/page-02.png",
+    "reason": "teacher authoring drafts and render caches; original ZIP remains local"
+  },
+  {
+    "archive": "9. SVM(3).zip",
+    "member": "9. SVM/planning/archive-v0-gpt-draft-20260918/review/rendered/pbl-svm-margin-design-rationale/page-02.txt",
+    "reason": "teacher authoring drafts and render caches; original ZIP remains local"
+  },
+  {
+    "archive": "9. SVM(3).zip",
+    "member": "9. SVM/planning/archive-v0-gpt-draft-20260918/review/rendered/pbl-svm-margin-design-rationale.pdf",
+    "reason": "teacher authoring drafts and render caches; original ZIP remains local"
+  },
+  {
+    "archive": "9. SVM(3).zip",
+    "member": "9. SVM/planning/archive-v0-gpt-draft-20260918/review/rendered/pbl-svm-margin-evidence-pack/contact-01.png",
+    "reason": "teacher authoring drafts and render caches; original ZIP remains local"
+  },
+  {
+    "archive": "9. SVM(3).zip",
+    "member": "9. SVM/planning/archive-v0-gpt-draft-20260918/review/rendered/pbl-svm-margin-evidence-pack/contact-02.png",
+    "reason": "teacher authoring drafts and render caches; original ZIP remains local"
+  },
+  {
+    "archive": "9. SVM(3).zip",
+    "member": "9. SVM/planning/archive-v0-gpt-draft-20260918/review/rendered/pbl-svm-margin-evidence-pack/page-01.png",
+    "reason": "teacher authoring drafts and render caches; original ZIP remains local"
+  },
+  {
+    "archive": "9. SVM(3).zip",
+    "member": "9. SVM/planning/archive-v0-gpt-draft-20260918/review/rendered/pbl-svm-margin-evidence-pack/page-01.txt",
+    "reason": "teacher authoring drafts and render caches; original ZIP remains local"
+  },
+  {
+    "archive": "9. SVM(3).zip",
+    "member": "9. SVM/planning/archive-v0-gpt-draft-20260918/review/rendered/pbl-svm-margin-evidence-pack/page-02.png",
+    "reason": "teacher authoring drafts and render caches; original ZIP remains local"
+  },
+  {
+    "archive": "9. SVM(3).zip",
+    "member": "9. SVM/planning/archive-v0-gpt-draft-20260918/review/rendered/pbl-svm-margin-evidence-pack/page-02.txt",
+    "reason": "teacher authoring drafts and render caches; original ZIP remains local"
+  },
+  {
+    "archive": "9. SVM(3).zip",
+    "member": "9. SVM/planning/archive-v0-gpt-draft-20260918/review/rendered/pbl-svm-margin-evidence-pack/page-03.png",
+    "reason": "teacher authoring drafts and render caches; original ZIP remains local"
+  },
+  {
+    "archive": "9. SVM(3).zip",
+    "member": "9. SVM/planning/archive-v0-gpt-draft-20260918/review/rendered/pbl-svm-margin-evidence-pack/page-03.txt",
+    "reason": "teacher authoring drafts and render caches; original ZIP remains local"
+  },
+  {
+    "archive": "9. SVM(3).zip",
+    "member": "9. SVM/planning/archive-v0-gpt-draft-20260918/review/rendered/pbl-svm-margin-evidence-pack/page-04.png",
+    "reason": "teacher authoring drafts and render caches; original ZIP remains local"
+  },
+  {
+    "archive": "9. SVM(3).zip",
+    "member": "9. SVM/planning/archive-v0-gpt-draft-20260918/review/rendered/pbl-svm-margin-evidence-pack/page-04.txt",
+    "reason": "teacher authoring drafts and render caches; original ZIP remains local"
+  },
+  {
+    "archive": "9. SVM(3).zip",
+    "member": "9. SVM/planning/archive-v0-gpt-draft-20260918/review/rendered/pbl-svm-margin-evidence-pack/page-05.png",
+    "reason": "teacher authoring drafts and render caches; original ZIP remains local"
+  },
+  {
+    "archive": "9. SVM(3).zip",
+    "member": "9. SVM/planning/archive-v0-gpt-draft-20260918/review/rendered/pbl-svm-margin-evidence-pack/page-05.txt",
+    "reason": "teacher authoring drafts and render caches; original ZIP remains local"
+  },
+  {
+    "archive": "9. SVM(3).zip",
+    "member": "9. SVM/planning/archive-v0-gpt-draft-20260918/review/rendered/pbl-svm-margin-evidence-pack/page-06.png",
+    "reason": "teacher authoring drafts and render caches; original ZIP remains local"
+  },
+  {
+    "archive": "9. SVM(3).zip",
+    "member": "9. SVM/planning/archive-v0-gpt-draft-20260918/review/rendered/pbl-svm-margin-evidence-pack/page-06.txt",
+    "reason": "teacher authoring drafts and render caches; original ZIP remains local"
+  },
+  {
+    "archive": "9. SVM(3).zip",
+    "member": "9. SVM/planning/archive-v0-gpt-draft-20260918/review/rendered/pbl-svm-margin-evidence-pack.pdf",
+    "reason": "teacher authoring drafts and render caches; original ZIP remains local"
+  },
+  {
+    "archive": "9. SVM(3).zip",
+    "member": "9. SVM/planning/archive-v0-gpt-draft-20260918/review/rendered/pbl-svm-margin-student-worksheet/contact-01.png",
+    "reason": "teacher authoring drafts and render caches; original ZIP remains local"
+  },
+  {
+    "archive": "9. SVM(3).zip",
+    "member": "9. SVM/planning/archive-v0-gpt-draft-20260918/review/rendered/pbl-svm-margin-student-worksheet/contact-02.png",
+    "reason": "teacher authoring drafts and render caches; original ZIP remains local"
+  },
+  {
+    "archive": "9. SVM(3).zip",
+    "member": "9. SVM/planning/archive-v0-gpt-draft-20260918/review/rendered/pbl-svm-margin-student-worksheet/contact-03.png",
+    "reason": "teacher authoring drafts and render caches; original ZIP remains local"
+  },
+  {
+    "archive": "9. SVM(3).zip",
+    "member": "9. SVM/planning/archive-v0-gpt-draft-20260918/review/rendered/pbl-svm-margin-student-worksheet/contact-04.png",
+    "reason": "teacher authoring drafts and render caches; original ZIP remains local"
+  },
+  {
+    "archive": "9. SVM(3).zip",
+    "member": "9. SVM/planning/archive-v0-gpt-draft-20260918/review/rendered/pbl-svm-margin-student-worksheet/contact-05.png",
+    "reason": "teacher authoring drafts and render caches; original ZIP remains local"
+  },
+  {
+    "archive": "9. SVM(3).zip",
+    "member": "9. SVM/planning/archive-v0-gpt-draft-20260918/review/rendered/pbl-svm-margin-student-worksheet/contact-06.png",
+    "reason": "teacher authoring drafts and render caches; original ZIP remains local"
+  },
+  {
+    "archive": "9. SVM(3).zip",
+    "member": "9. SVM/planning/archive-v0-gpt-draft-20260918/review/rendered/pbl-svm-margin-student-worksheet/page-01.png",
+    "reason": "teacher authoring drafts and render caches; original ZIP remains local"
+  },
+  {
+    "archive": "9. SVM(3).zip",
+    "member": "9. SVM/planning/archive-v0-gpt-draft-20260918/review/rendered/pbl-svm-margin-student-worksheet/page-01.txt",
+    "reason": "teacher authoring drafts and render caches; original ZIP remains local"
+  },
+  {
+    "archive": "9. SVM(3).zip",
+    "member": "9. SVM/planning/archive-v0-gpt-draft-20260918/review/rendered/pbl-svm-margin-student-worksheet/page-02.png",
+    "reason": "teacher authoring drafts and render caches; original ZIP remains local"
+  },
+  {
+    "archive": "9. SVM(3).zip",
+    "member": "9. SVM/planning/archive-v0-gpt-draft-20260918/review/rendered/pbl-svm-margin-student-worksheet/page-02.txt",
+    "reason": "teacher authoring drafts and render caches; original ZIP remains local"
+  },
+  {
+    "archive": "9. SVM(3).zip",
+    "member": "9. SVM/planning/archive-v0-gpt-draft-20260918/review/rendered/pbl-svm-margin-student-worksheet/page-03.png",
+    "reason": "teacher authoring drafts and render caches; original ZIP remains local"
+  },
+  {
+    "archive": "9. SVM(3).zip",
+    "member": "9. SVM/planning/archive-v0-gpt-draft-20260918/review/rendered/pbl-svm-margin-student-worksheet/page-03.txt",
+    "reason": "teacher authoring drafts and render caches; original ZIP remains local"
+  },
+  {
+    "archive": "9. SVM(3).zip",
+    "member": "9. SVM/planning/archive-v0-gpt-draft-20260918/review/rendered/pbl-svm-margin-student-worksheet/page-04.png",
+    "reason": "teacher authoring drafts and render caches; original ZIP remains local"
+  },
+  {
+    "archive": "9. SVM(3).zip",
+    "member": "9. SVM/planning/archive-v0-gpt-draft-20260918/review/rendered/pbl-svm-margin-student-worksheet/page-04.txt",
+    "reason": "teacher authoring drafts and render caches; original ZIP remains local"
+  },
+  {
+    "archive": "9. SVM(3).zip",
+    "member": "9. SVM/planning/archive-v0-gpt-draft-20260918/review/rendered/pbl-svm-margin-student-worksheet/page-05.png",
+    "reason": "teacher authoring drafts and render caches; original ZIP remains local"
+  },
+  {
+    "archive": "9. SVM(3).zip",
+    "member": "9. SVM/planning/archive-v0-gpt-draft-20260918/review/rendered/pbl-svm-margin-student-worksheet/page-05.txt",
+    "reason": "teacher authoring drafts and render caches; original ZIP remains local"
+  },
+  {
+    "archive": "9. SVM(3).zip",
+    "member": "9. SVM/planning/archive-v0-gpt-draft-20260918/review/rendered/pbl-svm-margin-student-worksheet/page-06.png",
+    "reason": "teacher authoring drafts and render caches; original ZIP remains local"
+  },
+  {
+    "archive": "9. SVM(3).zip",
+    "member": "9. SVM/planning/archive-v0-gpt-draft-20260918/review/rendered/pbl-svm-margin-student-worksheet/page-06.txt",
+    "reason": "teacher authoring drafts and render caches; original ZIP remains local"
+  },
+  {
+    "archive": "9. SVM(3).zip",
+    "member": "9. SVM/planning/archive-v0-gpt-draft-20260918/review/rendered/pbl-svm-margin-student-worksheet/page-07.png",
+    "reason": "teacher authoring drafts and render caches; original ZIP remains local"
+  },
+  {
+    "archive": "9. SVM(3).zip",
+    "member": "9. SVM/planning/archive-v0-gpt-draft-20260918/review/rendered/pbl-svm-margin-student-worksheet/page-07.txt",
+    "reason": "teacher authoring drafts and render caches; original ZIP remains local"
+  },
+  {
+    "archive": "9. SVM(3).zip",
+    "member": "9. SVM/planning/archive-v0-gpt-draft-20260918/review/rendered/pbl-svm-margin-student-worksheet/page-08.png",
+    "reason": "teacher authoring drafts and render caches; original ZIP remains local"
+  },
+  {
+    "archive": "9. SVM(3).zip",
+    "member": "9. SVM/planning/archive-v0-gpt-draft-20260918/review/rendered/pbl-svm-margin-student-worksheet/page-08.txt",
+    "reason": "teacher authoring drafts and render caches; original ZIP remains local"
+  },
+  {
+    "archive": "9. SVM(3).zip",
+    "member": "9. SVM/planning/archive-v0-gpt-draft-20260918/review/rendered/pbl-svm-margin-student-worksheet/page-09.png",
+    "reason": "teacher authoring drafts and render caches; original ZIP remains local"
+  },
+  {
+    "archive": "9. SVM(3).zip",
+    "member": "9. SVM/planning/archive-v0-gpt-draft-20260918/review/rendered/pbl-svm-margin-student-worksheet/page-09.txt",
+    "reason": "teacher authoring drafts and render caches; original ZIP remains local"
+  },
+  {
+    "archive": "9. SVM(3).zip",
+    "member": "9. SVM/planning/archive-v0-gpt-draft-20260918/review/rendered/pbl-svm-margin-student-worksheet/page-10.png",
+    "reason": "teacher authoring drafts and render caches; original ZIP remains local"
+  },
+  {
+    "archive": "9. SVM(3).zip",
+    "member": "9. SVM/planning/archive-v0-gpt-draft-20260918/review/rendered/pbl-svm-margin-student-worksheet/page-10.txt",
+    "reason": "teacher authoring drafts and render caches; original ZIP remains local"
+  },
+  {
+    "archive": "9. SVM(3).zip",
+    "member": "9. SVM/planning/archive-v0-gpt-draft-20260918/review/rendered/pbl-svm-margin-student-worksheet/page-11.png",
+    "reason": "teacher authoring drafts and render caches; original ZIP remains local"
+  },
+  {
+    "archive": "9. SVM(3).zip",
+    "member": "9. SVM/planning/archive-v0-gpt-draft-20260918/review/rendered/pbl-svm-margin-student-worksheet/page-11.txt",
+    "reason": "teacher authoring drafts and render caches; original ZIP remains local"
+  },
+  {
+    "archive": "9. SVM(3).zip",
+    "member": "9. SVM/planning/archive-v0-gpt-draft-20260918/review/rendered/pbl-svm-margin-student-worksheet/page-12.png",
+    "reason": "teacher authoring drafts and render caches; original ZIP remains local"
+  },
+  {
+    "archive": "9. SVM(3).zip",
+    "member": "9. SVM/planning/archive-v0-gpt-draft-20260918/review/rendered/pbl-svm-margin-student-worksheet/page-12.txt",
+    "reason": "teacher authoring drafts and render caches; original ZIP remains local"
+  },
+  {
+    "archive": "9. SVM(3).zip",
+    "member": "9. SVM/planning/archive-v0-gpt-draft-20260918/review/rendered/pbl-svm-margin-student-worksheet/page-13.png",
+    "reason": "teacher authoring drafts and render caches; original ZIP remains local"
+  },
+  {
+    "archive": "9. SVM(3).zip",
+    "member": "9. SVM/planning/archive-v0-gpt-draft-20260918/review/rendered/pbl-svm-margin-student-worksheet/page-13.txt",
+    "reason": "teacher authoring drafts and render caches; original ZIP remains local"
+  },
+  {
+    "archive": "9. SVM(3).zip",
+    "member": "9. SVM/planning/archive-v0-gpt-draft-20260918/review/rendered/pbl-svm-margin-student-worksheet/page-14.png",
+    "reason": "teacher authoring drafts and render caches; original ZIP remains local"
+  },
+  {
+    "archive": "9. SVM(3).zip",
+    "member": "9. SVM/planning/archive-v0-gpt-draft-20260918/review/rendered/pbl-svm-margin-student-worksheet/page-14.txt",
+    "reason": "teacher authoring drafts and render caches; original ZIP remains local"
+  },
+  {
+    "archive": "9. SVM(3).zip",
+    "member": "9. SVM/planning/archive-v0-gpt-draft-20260918/review/rendered/pbl-svm-margin-student-worksheet/page-15.png",
+    "reason": "teacher authoring drafts and render caches; original ZIP remains local"
+  },
+  {
+    "archive": "9. SVM(3).zip",
+    "member": "9. SVM/planning/archive-v0-gpt-draft-20260918/review/rendered/pbl-svm-margin-student-worksheet/page-15.txt",
+    "reason": "teacher authoring drafts and render caches; original ZIP remains local"
+  },
+  {
+    "archive": "9. SVM(3).zip",
+    "member": "9. SVM/planning/archive-v0-gpt-draft-20260918/review/rendered/pbl-svm-margin-student-worksheet/page-16.png",
+    "reason": "teacher authoring drafts and render caches; original ZIP remains local"
+  },
+  {
+    "archive": "9. SVM(3).zip",
+    "member": "9. SVM/planning/archive-v0-gpt-draft-20260918/review/rendered/pbl-svm-margin-student-worksheet/page-16.txt",
+    "reason": "teacher authoring drafts and render caches; original ZIP remains local"
+  },
+  {
+    "archive": "9. SVM(3).zip",
+    "member": "9. SVM/planning/archive-v0-gpt-draft-20260918/review/rendered/pbl-svm-margin-student-worksheet/page-17.png",
+    "reason": "teacher authoring drafts and render caches; original ZIP remains local"
+  },
+  {
+    "archive": "9. SVM(3).zip",
+    "member": "9. SVM/planning/archive-v0-gpt-draft-20260918/review/rendered/pbl-svm-margin-student-worksheet/page-17.txt",
+    "reason": "teacher authoring drafts and render caches; original ZIP remains local"
+  },
+  {
+    "archive": "9. SVM(3).zip",
+    "member": "9. SVM/planning/archive-v0-gpt-draft-20260918/review/rendered/pbl-svm-margin-student-worksheet/page-18.png",
+    "reason": "teacher authoring drafts and render caches; original ZIP remains local"
+  },
+  {
+    "archive": "9. SVM(3).zip",
+    "member": "9. SVM/planning/archive-v0-gpt-draft-20260918/review/rendered/pbl-svm-margin-student-worksheet/page-18.txt",
+    "reason": "teacher authoring drafts and render caches; original ZIP remains local"
+  },
+  {
+    "archive": "9. SVM(3).zip",
+    "member": "9. SVM/planning/archive-v0-gpt-draft-20260918/review/rendered/pbl-svm-margin-student-worksheet/page-19.png",
+    "reason": "teacher authoring drafts and render caches; original ZIP remains local"
+  },
+  {
+    "archive": "9. SVM(3).zip",
+    "member": "9. SVM/planning/archive-v0-gpt-draft-20260918/review/rendered/pbl-svm-margin-student-worksheet/page-19.txt",
+    "reason": "teacher authoring drafts and render caches; original ZIP remains local"
+  },
+  {
+    "archive": "9. SVM(3).zip",
+    "member": "9. SVM/planning/archive-v0-gpt-draft-20260918/review/rendered/pbl-svm-margin-student-worksheet/page-20.png",
+    "reason": "teacher authoring drafts and render caches; original ZIP remains local"
+  },
+  {
+    "archive": "9. SVM(3).zip",
+    "member": "9. SVM/planning/archive-v0-gpt-draft-20260918/review/rendered/pbl-svm-margin-student-worksheet/page-20.txt",
+    "reason": "teacher authoring drafts and render caches; original ZIP remains local"
+  },
+  {
+    "archive": "9. SVM(3).zip",
+    "member": "9. SVM/planning/archive-v0-gpt-draft-20260918/review/rendered/pbl-svm-margin-student-worksheet/page-21.png",
+    "reason": "teacher authoring drafts and render caches; original ZIP remains local"
+  },
+  {
+    "archive": "9. SVM(3).zip",
+    "member": "9. SVM/planning/archive-v0-gpt-draft-20260918/review/rendered/pbl-svm-margin-student-worksheet/page-21.txt",
+    "reason": "teacher authoring drafts and render caches; original ZIP remains local"
+  },
+  {
+    "archive": "9. SVM(3).zip",
+    "member": "9. SVM/planning/archive-v0-gpt-draft-20260918/review/rendered/pbl-svm-margin-student-worksheet.pdf",
+    "reason": "teacher authoring drafts and render caches; original ZIP remains local"
+  },
+  {
+    "archive": "9. SVM(3).zip",
+    "member": "9. SVM/planning/archive-v0-gpt-draft-20260918/review/rendered/pbl-svm-margin-teaching-plan-flipped-classroom/contact-01.png",
+    "reason": "teacher authoring drafts and render caches; original ZIP remains local"
+  },
+  {
+    "archive": "9. SVM(3).zip",
+    "member": "9. SVM/planning/archive-v0-gpt-draft-20260918/review/rendered/pbl-svm-margin-teaching-plan-flipped-classroom/page-01.png",
+    "reason": "teacher authoring drafts and render caches; original ZIP remains local"
+  },
+  {
+    "archive": "9. SVM(3).zip",
+    "member": "9. SVM/planning/archive-v0-gpt-draft-20260918/review/rendered/pbl-svm-margin-teaching-plan-flipped-classroom/page-01.txt",
+    "reason": "teacher authoring drafts and render caches; original ZIP remains local"
+  },
+  {
+    "archive": "9. SVM(3).zip",
+    "member": "9. SVM/planning/archive-v0-gpt-draft-20260918/review/rendered/pbl-svm-margin-teaching-plan-flipped-classroom/page-02.png",
+    "reason": "teacher authoring drafts and render caches; original ZIP remains local"
+  },
+  {
+    "archive": "9. SVM(3).zip",
+    "member": "9. SVM/planning/archive-v0-gpt-draft-20260918/review/rendered/pbl-svm-margin-teaching-plan-flipped-classroom/page-02.txt",
+    "reason": "teacher authoring drafts and render caches; original ZIP remains local"
+  },
+  {
+    "archive": "9. SVM(3).zip",
+    "member": "9. SVM/planning/archive-v0-gpt-draft-20260918/review/rendered/pbl-svm-margin-teaching-plan-flipped-classroom/page-03.png",
+    "reason": "teacher authoring drafts and render caches; original ZIP remains local"
+  },
+  {
+    "archive": "9. SVM(3).zip",
+    "member": "9. SVM/planning/archive-v0-gpt-draft-20260918/review/rendered/pbl-svm-margin-teaching-plan-flipped-classroom/page-03.txt",
+    "reason": "teacher authoring drafts and render caches; original ZIP remains local"
+  },
+  {
+    "archive": "9. SVM(3).zip",
+    "member": "9. SVM/planning/archive-v0-gpt-draft-20260918/review/rendered/pbl-svm-margin-teaching-plan-flipped-classroom/page-04.png",
+    "reason": "teacher authoring drafts and render caches; original ZIP remains local"
+  },
+  {
+    "archive": "9. SVM(3).zip",
+    "member": "9. SVM/planning/archive-v0-gpt-draft-20260918/review/rendered/pbl-svm-margin-teaching-plan-flipped-classroom/page-04.txt",
+    "reason": "teacher authoring drafts and render caches; original ZIP remains local"
+  },
+  {
+    "archive": "9. SVM(3).zip",
+    "member": "9. SVM/planning/archive-v0-gpt-draft-20260918/review/rendered/pbl-svm-margin-teaching-plan-flipped-classroom.pdf",
+    "reason": "teacher authoring drafts and render caches; original ZIP remains local"
+  },
+  {
+    "archive": "9. SVM(3).zip",
+    "member": "9. SVM/planning/archive-v0-gpt-draft-20260918/review/student-worksheet-text.txt",
+    "reason": "teacher authoring drafts and render caches; original ZIP remains local"
+  },
+  {
+    "archive": "9. SVM(3).zip",
+    "member": "9. SVM/planning/archive-v0-gpt-draft-20260918/review/teaching-plan-flipped-classroom-text.txt",
+    "reason": "teacher authoring drafts and render caches; original ZIP remains local"
+  },
+  {
+    "archive": "9. SVM(3).zip",
+    "member": "9. SVM/planning/archive-v0-gpt-draft-20260918/review/visual-qa.md",
+    "reason": "teacher authoring drafts and render caches; original ZIP remains local"
+  },
+  {
+    "archive": "9. SVM(3).zip",
+    "member": "9. SVM/planning/archive-v0-gpt-draft-20260918/scripts/finalize-qa.py",
+    "reason": "teacher authoring drafts and render caches; original ZIP remains local"
+  },
+  {
+    "archive": "9. SVM(3).zip",
+    "member": "9. SVM/planning/archive-v0-gpt-draft-20260918/scripts/pbl-svm-margin-build.py",
+    "reason": "teacher authoring drafts and render caches; original ZIP remains local"
+  },
+  {
+    "archive": "9. SVM(3).zip",
+    "member": "9. SVM/planning/archive-v0-gpt-draft-20260918/scripts/qa-artifacts.py",
+    "reason": "teacher authoring drafts and render caches; original ZIP remains local"
+  },
+  {
+    "archive": "9. SVM(3).zip",
+    "member": "9. SVM/planning/archive-v0-gpt-draft-20260918/scripts/render-word.ps1",
+    "reason": "teacher authoring drafts and render caches; original ZIP remains local"
+  },
+  {
+    "archive": "9. SVM(3).zip",
+    "member": "9. SVM/planning/archive-v0-gpt-draft-20260918/student-release/01-启动与追踪表.docx",
+    "reason": "teacher authoring drafts and render caches; original ZIP remains local"
+  },
+  {
+    "archive": "9. SVM(3).zip",
+    "member": "9. SVM/planning/archive-v0-gpt-draft-20260918/student-release/02-Packet-A.docx",
+    "reason": "teacher authoring drafts and render caches; original ZIP remains local"
+  },
+  {
+    "archive": "9. SVM(3).zip",
+    "member": "9. SVM/planning/archive-v0-gpt-draft-20260918/student-release/03-Packet-B.docx",
+    "reason": "teacher authoring drafts and render caches; original ZIP remains local"
+  },
+  {
+    "archive": "9. SVM(3).zip",
+    "member": "9. SVM/planning/archive-v0-gpt-draft-20260918/student-release/04-Packet-C.docx",
+    "reason": "teacher authoring drafts and render caches; original ZIP remains local"
+  },
+  {
+    "archive": "9. SVM(3).zip",
+    "member": "9. SVM/planning/archive-v0-gpt-draft-20260918/student-release/05-Packet-D与综合.docx",
+    "reason": "teacher authoring drafts and render caches; original ZIP remains local"
+  },
+  {
+    "archive": "9. SVM(3).zip",
+    "member": "9. SVM/planning/archive-v0-gpt-draft-20260918/student-release/06-翻转课堂与入口.docx",
+    "reason": "teacher authoring drafts and render caches; original ZIP remains local"
+  },
+  {
+    "archive": "9. SVM(3).zip",
+    "member": "9. SVM/review/design-rationale-text.txt",
+    "reason": "teacher authoring drafts and render caches; original ZIP remains local"
+  },
+  {
+    "archive": "9. SVM(3).zip",
+    "member": "9. SVM/review/evidence-pack-text.txt",
+    "reason": "teacher authoring drafts and render caches; original ZIP remains local"
+  },
+  {
+    "archive": "9. SVM(3).zip",
+    "member": "9. SVM/review/pbl-svm-margin-design-check.md",
+    "reason": "teacher authoring drafts and render caches; original ZIP remains local"
+  },
+  {
+    "archive": "9. SVM(3).zip",
+    "member": "9. SVM/review/pbl-svm-margin-lint.md",
+    "reason": "teacher authoring drafts and render caches; original ZIP remains local"
+  },
+  {
+    "archive": "9. SVM(3).zip",
+    "member": "9. SVM/review/pbl-svm-margin-pilot-fill.docx",
+    "reason": "teacher authoring drafts and render caches; original ZIP remains local"
+  },
+  {
+    "archive": "9. SVM(3).zip",
+    "member": "9. SVM/review/pbl-svm-margin-pilot-report.md",
+    "reason": "teacher authoring drafts and render caches; original ZIP remains local"
+  },
+  {
+    "archive": "9. SVM(3).zip",
+    "member": "9. SVM/review/pilot-fields.json",
+    "reason": "teacher authoring drafts and render caches; original ZIP remains local"
+  },
+  {
+    "archive": "9. SVM(3).zip",
+    "member": "9. SVM/review/release-verification.json",
+    "reason": "teacher authoring drafts and render caches; original ZIP remains local"
+  },
+  {
+    "archive": "9. SVM(3).zip",
+    "member": "9. SVM/review/rendered/01-启动与追踪表/contact-01.png",
+    "reason": "teacher authoring drafts and render caches; original ZIP remains local"
+  },
+  {
+    "archive": "9. SVM(3).zip",
+    "member": "9. SVM/review/rendered/01-启动与追踪表/contact-02.png",
+    "reason": "teacher authoring drafts and render caches; original ZIP remains local"
+  },
+  {
+    "archive": "9. SVM(3).zip",
+    "member": "9. SVM/review/rendered/01-启动与追踪表/page-01.png",
+    "reason": "teacher authoring drafts and render caches; original ZIP remains local"
+  },
+  {
+    "archive": "9. SVM(3).zip",
+    "member": "9. SVM/review/rendered/01-启动与追踪表/page-02.png",
+    "reason": "teacher authoring drafts and render caches; original ZIP remains local"
+  },
+  {
+    "archive": "9. SVM(3).zip",
+    "member": "9. SVM/review/rendered/01-启动与追踪表/page-03.png",
+    "reason": "teacher authoring drafts and render caches; original ZIP remains local"
+  },
+  {
+    "archive": "9. SVM(3).zip",
+    "member": "9. SVM/review/rendered/01-启动与追踪表/page-04.png",
+    "reason": "teacher authoring drafts and render caches; original ZIP remains local"
+  },
+  {
+    "archive": "9. SVM(3).zip",
+    "member": "9. SVM/review/rendered/01-启动与追踪表/page-05.png",
+    "reason": "teacher authoring drafts and render caches; original ZIP remains local"
+  },
+  {
+    "archive": "9. SVM(3).zip",
+    "member": "9. SVM/review/rendered/01-启动与追踪表/page-06.png",
+    "reason": "teacher authoring drafts and render caches; original ZIP remains local"
+  },
+  {
+    "archive": "9. SVM(3).zip",
+    "member": "9. SVM/review/rendered/01-启动与追踪表/page-07.png",
+    "reason": "teacher authoring drafts and render caches; original ZIP remains local"
+  },
+  {
+    "archive": "9. SVM(3).zip",
+    "member": "9. SVM/review/rendered/01-启动与追踪表/page-08.png",
+    "reason": "teacher authoring drafts and render caches; original ZIP remains local"
+  },
+  {
+    "archive": "9. SVM(3).zip",
+    "member": "9. SVM/review/rendered/01-启动与追踪表/page-09.png",
+    "reason": "teacher authoring drafts and render caches; original ZIP remains local"
+  },
+  {
+    "archive": "9. SVM(3).zip",
+    "member": "9. SVM/review/rendered/01-启动与追踪表.pdf",
+    "reason": "teacher authoring drafts and render caches; original ZIP remains local"
+  },
+  {
+    "archive": "9. SVM(3).zip",
+    "member": "9. SVM/review/rendered/02-Packet-A/contact-01.png",
+    "reason": "teacher authoring drafts and render caches; original ZIP remains local"
+  },
+  {
+    "archive": "9. SVM(3).zip",
+    "member": "9. SVM/review/rendered/02-Packet-A/page-01.png",
+    "reason": "teacher authoring drafts and render caches; original ZIP remains local"
+  },
+  {
+    "archive": "9. SVM(3).zip",
+    "member": "9. SVM/review/rendered/02-Packet-A/page-02.png",
+    "reason": "teacher authoring drafts and render caches; original ZIP remains local"
+  },
+  {
+    "archive": "9. SVM(3).zip",
+    "member": "9. SVM/review/rendered/02-Packet-A/page-03.png",
+    "reason": "teacher authoring drafts and render caches; original ZIP remains local"
+  },
+  {
+    "archive": "9. SVM(3).zip",
+    "member": "9. SVM/review/rendered/02-Packet-A.pdf",
+    "reason": "teacher authoring drafts and render caches; original ZIP remains local"
+  },
+  {
+    "archive": "9. SVM(3).zip",
+    "member": "9. SVM/review/rendered/03-Packet-B/contact-01.png",
+    "reason": "teacher authoring drafts and render caches; original ZIP remains local"
+  },
+  {
+    "archive": "9. SVM(3).zip",
+    "member": "9. SVM/review/rendered/03-Packet-B/page-01.png",
+    "reason": "teacher authoring drafts and render caches; original ZIP remains local"
+  },
+  {
+    "archive": "9. SVM(3).zip",
+    "member": "9. SVM/review/rendered/03-Packet-B/page-02.png",
+    "reason": "teacher authoring drafts and render caches; original ZIP remains local"
+  },
+  {
+    "archive": "9. SVM(3).zip",
+    "member": "9. SVM/review/rendered/03-Packet-B/page-03.png",
+    "reason": "teacher authoring drafts and render caches; original ZIP remains local"
+  },
+  {
+    "archive": "9. SVM(3).zip",
+    "member": "9. SVM/review/rendered/03-Packet-B.pdf",
+    "reason": "teacher authoring drafts and render caches; original ZIP remains local"
+  },
+  {
+    "archive": "9. SVM(3).zip",
+    "member": "9. SVM/review/rendered/04-Packet-C/contact-01.png",
+    "reason": "teacher authoring drafts and render caches; original ZIP remains local"
+  },
+  {
+    "archive": "9. SVM(3).zip",
+    "member": "9. SVM/review/rendered/04-Packet-C/page-01.png",
+    "reason": "teacher authoring drafts and render caches; original ZIP remains local"
+  },
+  {
+    "archive": "9. SVM(3).zip",
+    "member": "9. SVM/review/rendered/04-Packet-C/page-02.png",
+    "reason": "teacher authoring drafts and render caches; original ZIP remains local"
+  },
+  {
+    "archive": "9. SVM(3).zip",
+    "member": "9. SVM/review/rendered/04-Packet-C/page-03.png",
+    "reason": "teacher authoring drafts and render caches; original ZIP remains local"
+  },
+  {
+    "archive": "9. SVM(3).zip",
+    "member": "9. SVM/review/rendered/04-Packet-C/page-04.png",
+    "reason": "teacher authoring drafts and render caches; original ZIP remains local"
+  },
+  {
+    "archive": "9. SVM(3).zip",
+    "member": "9. SVM/review/rendered/04-Packet-C/page-05.png",
+    "reason": "teacher authoring drafts and render caches; original ZIP remains local"
+  },
+  {
+    "archive": "9. SVM(3).zip",
+    "member": "9. SVM/review/rendered/04-Packet-C/page-06.png",
+    "reason": "teacher authoring drafts and render caches; original ZIP remains local"
+  },
+  {
+    "archive": "9. SVM(3).zip",
+    "member": "9. SVM/review/rendered/04-Packet-C.pdf",
+    "reason": "teacher authoring drafts and render caches; original ZIP remains local"
+  },
+  {
+    "archive": "9. SVM(3).zip",
+    "member": "9. SVM/review/rendered/05-Packet-D与综合/contact-01.png",
+    "reason": "teacher authoring drafts and render caches; original ZIP remains local"
+  },
+  {
+    "archive": "9. SVM(3).zip",
+    "member": "9. SVM/review/rendered/05-Packet-D与综合/page-01.png",
+    "reason": "teacher authoring drafts and render caches; original ZIP remains local"
+  },
+  {
+    "archive": "9. SVM(3).zip",
+    "member": "9. SVM/review/rendered/05-Packet-D与综合/page-02.png",
+    "reason": "teacher authoring drafts and render caches; original ZIP remains local"
+  },
+  {
+    "archive": "9. SVM(3).zip",
+    "member": "9. SVM/review/rendered/05-Packet-D与综合/page-03.png",
+    "reason": "teacher authoring drafts and render caches; original ZIP remains local"
+  },
+  {
+    "archive": "9. SVM(3).zip",
+    "member": "9. SVM/review/rendered/05-Packet-D与综合/page-04.png",
+    "reason": "teacher authoring drafts and render caches; original ZIP remains local"
+  },
+  {
+    "archive": "9. SVM(3).zip",
+    "member": "9. SVM/review/rendered/05-Packet-D与综合/page-05.png",
+    "reason": "teacher authoring drafts and render caches; original ZIP remains local"
+  },
+  {
+    "archive": "9. SVM(3).zip",
+    "member": "9. SVM/review/rendered/05-Packet-D与综合.pdf",
+    "reason": "teacher authoring drafts and render caches; original ZIP remains local"
+  },
+  {
+    "archive": "9. SVM(3).zip",
+    "member": "9. SVM/review/rendered/06-翻转课堂与入口/contact-01.png",
+    "reason": "teacher authoring drafts and render caches; original ZIP remains local"
+  },
+  {
+    "archive": "9. SVM(3).zip",
+    "member": "9. SVM/review/rendered/06-翻转课堂与入口/page-01.png",
+    "reason": "teacher authoring drafts and render caches; original ZIP remains local"
+  },
+  {
+    "archive": "9. SVM(3).zip",
+    "member": "9. SVM/review/rendered/06-翻转课堂与入口/page-02.png",
+    "reason": "teacher authoring drafts and render caches; original ZIP remains local"
+  },
+  {
+    "archive": "9. SVM(3).zip",
+    "member": "9. SVM/review/rendered/06-翻转课堂与入口.pdf",
+    "reason": "teacher authoring drafts and render caches; original ZIP remains local"
+  },
+  {
+    "archive": "9. SVM(3).zip",
+    "member": "9. SVM/review/rendered/pbl-svm-margin-design-rationale/contact-01.png",
+    "reason": "teacher authoring drafts and render caches; original ZIP remains local"
+  },
+  {
+    "archive": "9. SVM(3).zip",
+    "member": "9. SVM/review/rendered/pbl-svm-margin-design-rationale/page-01.png",
+    "reason": "teacher authoring drafts and render caches; original ZIP remains local"
+  },
+  {
+    "archive": "9. SVM(3).zip",
+    "member": "9. SVM/review/rendered/pbl-svm-margin-design-rationale/page-02.png",
+    "reason": "teacher authoring drafts and render caches; original ZIP remains local"
+  },
+  {
+    "archive": "9. SVM(3).zip",
+    "member": "9. SVM/review/rendered/pbl-svm-margin-design-rationale.pdf",
+    "reason": "teacher authoring drafts and render caches; original ZIP remains local"
+  },
+  {
+    "archive": "9. SVM(3).zip",
+    "member": "9. SVM/review/rendered/pbl-svm-margin-evidence-pack/contact-01.png",
+    "reason": "teacher authoring drafts and render caches; original ZIP remains local"
+  },
+  {
+    "archive": "9. SVM(3).zip",
+    "member": "9. SVM/review/rendered/pbl-svm-margin-evidence-pack/contact-02.png",
+    "reason": "teacher authoring drafts and render caches; original ZIP remains local"
+  },
+  {
+    "archive": "9. SVM(3).zip",
+    "member": "9. SVM/review/rendered/pbl-svm-margin-evidence-pack/page-01.png",
+    "reason": "teacher authoring drafts and render caches; original ZIP remains local"
+  },
+  {
+    "archive": "9. SVM(3).zip",
+    "member": "9. SVM/review/rendered/pbl-svm-margin-evidence-pack/page-02.png",
+    "reason": "teacher authoring drafts and render caches; original ZIP remains local"
+  },
+  {
+    "archive": "9. SVM(3).zip",
+    "member": "9. SVM/review/rendered/pbl-svm-margin-evidence-pack/page-03.png",
+    "reason": "teacher authoring drafts and render caches; original ZIP remains local"
+  },
+  {
+    "archive": "9. SVM(3).zip",
+    "member": "9. SVM/review/rendered/pbl-svm-margin-evidence-pack/page-04.png",
+    "reason": "teacher authoring drafts and render caches; original ZIP remains local"
+  },
+  {
+    "archive": "9. SVM(3).zip",
+    "member": "9. SVM/review/rendered/pbl-svm-margin-evidence-pack/page-05.png",
+    "reason": "teacher authoring drafts and render caches; original ZIP remains local"
+  },
+  {
+    "archive": "9. SVM(3).zip",
+    "member": "9. SVM/review/rendered/pbl-svm-margin-evidence-pack/page-06.png",
+    "reason": "teacher authoring drafts and render caches; original ZIP remains local"
+  },
+  {
+    "archive": "9. SVM(3).zip",
+    "member": "9. SVM/review/rendered/pbl-svm-margin-evidence-pack/page-07.png",
+    "reason": "teacher authoring drafts and render caches; original ZIP remains local"
+  },
+  {
+    "archive": "9. SVM(3).zip",
+    "member": "9. SVM/review/rendered/pbl-svm-margin-evidence-pack.pdf",
+    "reason": "teacher authoring drafts and render caches; original ZIP remains local"
+  },
+  {
+    "archive": "9. SVM(3).zip",
+    "member": "9. SVM/review/rendered/pbl-svm-margin-student-worksheet/contact-01.png",
+    "reason": "teacher authoring drafts and render caches; original ZIP remains local"
+  },
+  {
+    "archive": "9. SVM(3).zip",
+    "member": "9. SVM/review/rendered/pbl-svm-margin-student-worksheet/contact-02.png",
+    "reason": "teacher authoring drafts and render caches; original ZIP remains local"
+  },
+  {
+    "archive": "9. SVM(3).zip",
+    "member": "9. SVM/review/rendered/pbl-svm-margin-student-worksheet/contact-03.png",
+    "reason": "teacher authoring drafts and render caches; original ZIP remains local"
+  },
+  {
+    "archive": "9. SVM(3).zip",
+    "member": "9. SVM/review/rendered/pbl-svm-margin-student-worksheet/contact-04.png",
+    "reason": "teacher authoring drafts and render caches; original ZIP remains local"
+  },
+  {
+    "archive": "9. SVM(3).zip",
+    "member": "9. SVM/review/rendered/pbl-svm-margin-student-worksheet/contact-05.png",
+    "reason": "teacher authoring drafts and render caches; original ZIP remains local"
+  },
+  {
+    "archive": "9. SVM(3).zip",
+    "member": "9. SVM/review/rendered/pbl-svm-margin-student-worksheet/page-01.png",
+    "reason": "teacher authoring drafts and render caches; original ZIP remains local"
+  },
+  {
+    "archive": "9. SVM(3).zip",
+    "member": "9. SVM/review/rendered/pbl-svm-margin-student-worksheet/page-02.png",
+    "reason": "teacher authoring drafts and render caches; original ZIP remains local"
+  },
+  {
+    "archive": "9. SVM(3).zip",
+    "member": "9. SVM/review/rendered/pbl-svm-margin-student-worksheet/page-03.png",
+    "reason": "teacher authoring drafts and render caches; original ZIP remains local"
+  },
+  {
+    "archive": "9. SVM(3).zip",
+    "member": "9. SVM/review/rendered/pbl-svm-margin-student-worksheet/page-04.png",
+    "reason": "teacher authoring drafts and render caches; original ZIP remains local"
+  },
+  {
+    "archive": "9. SVM(3).zip",
+    "member": "9. SVM/review/rendered/pbl-svm-margin-student-worksheet/page-05.png",
+    "reason": "teacher authoring drafts and render caches; original ZIP remains local"
+  },
+  {
+    "archive": "9. SVM(3).zip",
+    "member": "9. SVM/review/rendered/pbl-svm-margin-student-worksheet/page-06.png",
+    "reason": "teacher authoring drafts and render caches; original ZIP remains local"
+  },
+  {
+    "archive": "9. SVM(3).zip",
+    "member": "9. SVM/review/rendered/pbl-svm-margin-student-worksheet/page-07.png",
+    "reason": "teacher authoring drafts and render caches; original ZIP remains local"
+  },
+  {
+    "archive": "9. SVM(3).zip",
+    "member": "9. SVM/review/rendered/pbl-svm-margin-student-worksheet/page-08.png",
+    "reason": "teacher authoring drafts and render caches; original ZIP remains local"
+  },
+  {
+    "archive": "9. SVM(3).zip",
+    "member": "9. SVM/review/rendered/pbl-svm-margin-student-worksheet/page-09.png",
+    "reason": "teacher authoring drafts and render caches; original ZIP remains local"
+  },
+  {
+    "archive": "9. SVM(3).zip",
+    "member": "9. SVM/review/rendered/pbl-svm-margin-student-worksheet/page-10.png",
+    "reason": "teacher authoring drafts and render caches; original ZIP remains local"
+  },
+  {
+    "archive": "9. SVM(3).zip",
+    "member": "9. SVM/review/rendered/pbl-svm-margin-student-worksheet/page-11.png",
+    "reason": "teacher authoring drafts and render caches; original ZIP remains local"
+  },
+  {
+    "archive": "9. SVM(3).zip",
+    "member": "9. SVM/review/rendered/pbl-svm-margin-student-worksheet/page-12.png",
+    "reason": "teacher authoring drafts and render caches; original ZIP remains local"
+  },
+  {
+    "archive": "9. SVM(3).zip",
+    "member": "9. SVM/review/rendered/pbl-svm-margin-student-worksheet/page-13.png",
+    "reason": "teacher authoring drafts and render caches; original ZIP remains local"
+  },
+  {
+    "archive": "9. SVM(3).zip",
+    "member": "9. SVM/review/rendered/pbl-svm-margin-student-worksheet/page-14.png",
+    "reason": "teacher authoring drafts and render caches; original ZIP remains local"
+  },
+  {
+    "archive": "9. SVM(3).zip",
+    "member": "9. SVM/review/rendered/pbl-svm-margin-student-worksheet/page-15.png",
+    "reason": "teacher authoring drafts and render caches; original ZIP remains local"
+  },
+  {
+    "archive": "9. SVM(3).zip",
+    "member": "9. SVM/review/rendered/pbl-svm-margin-student-worksheet/page-16.png",
+    "reason": "teacher authoring drafts and render caches; original ZIP remains local"
+  },
+  {
+    "archive": "9. SVM(3).zip",
+    "member": "9. SVM/review/rendered/pbl-svm-margin-student-worksheet/page-17.png",
+    "reason": "teacher authoring drafts and render caches; original ZIP remains local"
+  },
+  {
+    "archive": "9. SVM(3).zip",
+    "member": "9. SVM/review/rendered/pbl-svm-margin-student-worksheet/page-18.png",
+    "reason": "teacher authoring drafts and render caches; original ZIP remains local"
+  },
+  {
+    "archive": "9. SVM(3).zip",
+    "member": "9. SVM/review/rendered/pbl-svm-margin-student-worksheet/page-19.png",
+    "reason": "teacher authoring drafts and render caches; original ZIP remains local"
+  },
+  {
+    "archive": "9. SVM(3).zip",
+    "member": "9. SVM/review/rendered/pbl-svm-margin-student-worksheet/page-20.png",
+    "reason": "teacher authoring drafts and render caches; original ZIP remains local"
+  },
+  {
+    "archive": "9. SVM(3).zip",
+    "member": "9. SVM/review/rendered/pbl-svm-margin-student-worksheet/page-21.png",
+    "reason": "teacher authoring drafts and render caches; original ZIP remains local"
+  },
+  {
+    "archive": "9. SVM(3).zip",
+    "member": "9. SVM/review/rendered/pbl-svm-margin-student-worksheet/page-22.png",
+    "reason": "teacher authoring drafts and render caches; original ZIP remains local"
+  },
+  {
+    "archive": "9. SVM(3).zip",
+    "member": "9. SVM/review/rendered/pbl-svm-margin-student-worksheet/page-23.png",
+    "reason": "teacher authoring drafts and render caches; original ZIP remains local"
+  },
+  {
+    "archive": "9. SVM(3).zip",
+    "member": "9. SVM/review/rendered/pbl-svm-margin-student-worksheet/page-24.png",
+    "reason": "teacher authoring drafts and render caches; original ZIP remains local"
+  },
+  {
+    "archive": "9. SVM(3).zip",
+    "member": "9. SVM/review/rendered/pbl-svm-margin-student-worksheet/page-25.png",
+    "reason": "teacher authoring drafts and render caches; original ZIP remains local"
+  },
+  {
+    "archive": "9. SVM(3).zip",
+    "member": "9. SVM/review/rendered/pbl-svm-margin-student-worksheet/page-26.png",
+    "reason": "teacher authoring drafts and render caches; original ZIP remains local"
+  },
+  {
+    "archive": "9. SVM(3).zip",
+    "member": "9. SVM/review/rendered/pbl-svm-margin-student-worksheet/page-27.png",
+    "reason": "teacher authoring drafts and render caches; original ZIP remains local"
+  },
+  {
+    "archive": "9. SVM(3).zip",
+    "member": "9. SVM/review/rendered/pbl-svm-margin-student-worksheet/page-28.png",
+    "reason": "teacher authoring drafts and render caches; original ZIP remains local"
+  },
+  {
+    "archive": "9. SVM(3).zip",
+    "member": "9. SVM/review/rendered/pbl-svm-margin-student-worksheet.pdf",
+    "reason": "teacher authoring drafts and render caches; original ZIP remains local"
+  },
+  {
+    "archive": "9. SVM(3).zip",
+    "member": "9. SVM/review/rendered/pbl-svm-margin-teaching-plan-flipped-classroom/contact-01.png",
+    "reason": "teacher authoring drafts and render caches; original ZIP remains local"
+  },
+  {
+    "archive": "9. SVM(3).zip",
+    "member": "9. SVM/review/rendered/pbl-svm-margin-teaching-plan-flipped-classroom/page-01.png",
+    "reason": "teacher authoring drafts and render caches; original ZIP remains local"
+  },
+  {
+    "archive": "9. SVM(3).zip",
+    "member": "9. SVM/review/rendered/pbl-svm-margin-teaching-plan-flipped-classroom/page-02.png",
+    "reason": "teacher authoring drafts and render caches; original ZIP remains local"
+  },
+  {
+    "archive": "9. SVM(3).zip",
+    "member": "9. SVM/review/rendered/pbl-svm-margin-teaching-plan-flipped-classroom/page-03.png",
+    "reason": "teacher authoring drafts and render caches; original ZIP remains local"
+  },
+  {
+    "archive": "9. SVM(3).zip",
+    "member": "9. SVM/review/rendered/pbl-svm-margin-teaching-plan-flipped-classroom/page-04.png",
+    "reason": "teacher authoring drafts and render caches; original ZIP remains local"
+  },
+  {
+    "archive": "9. SVM(3).zip",
+    "member": "9. SVM/review/rendered/pbl-svm-margin-teaching-plan-flipped-classroom/page-05.png",
+    "reason": "teacher authoring drafts and render caches; original ZIP remains local"
+  },
+  {
+    "archive": "9. SVM(3).zip",
+    "member": "9. SVM/review/rendered/pbl-svm-margin-teaching-plan-flipped-classroom.pdf",
+    "reason": "teacher authoring drafts and render caches; original ZIP remains local"
+  },
+  {
+    "archive": "9. SVM(3).zip",
+    "member": "9. SVM/review/student-worksheet-text.txt",
+    "reason": "teacher authoring drafts and render caches; original ZIP remains local"
+  },
+  {
+    "archive": "9. SVM(3).zip",
+    "member": "9. SVM/review/takeover-gap-audit.md",
+    "reason": "teacher authoring drafts and render caches; original ZIP remains local"
+  },
+  {
+    "archive": "9. SVM(3).zip",
+    "member": "9. SVM/review/teaching-plan-flipped-classroom-text.txt",
+    "reason": "teacher authoring drafts and render caches; original ZIP remains local"
+  },
+  {
+    "archive": "9. SVM(3).zip",
+    "member": "9. SVM/review/visual-qa.md",
+    "reason": "teacher authoring drafts and render caches; original ZIP remains local"
+  },
+  {
+    "archive": "9. SVM(3).zip",
+    "member": "9. SVM/scripts/__pycache__/pbl-svm-margin-build.cpython-312.pyc",
+    "reason": "cache or repository metadata"
+  },
+  {
+    "archive": "9. Ensemble.zip",
+    "member": "10. Ensemble/.gitkeep",
+    "reason": "temporary or empty marker"
+  },
+  {
+    "archive": "9. Ensemble.zip",
+    "member": "10. Ensemble/data/teacher/all-measurements.csv",
+    "reason": "teacher-only labels/manifests excluded from student submission"
+  },
+  {
+    "archive": "9. Ensemble.zip",
+    "member": "10. Ensemble/data/teacher/locked-test-labels.csv",
+    "reason": "teacher-only labels/manifests excluded from student submission"
+  },
+  {
+    "archive": "9. Ensemble.zip",
+    "member": "10. Ensemble/data/teacher/split-manifest.json",
+    "reason": "teacher-only labels/manifests excluded from student submission"
+  },
+  {
+    "archive": "9. Ensemble.zip",
+    "member": "10. Ensemble/data-ctg/teacher/all-measurements.csv",
+    "reason": "teacher-only labels/manifests excluded from student submission"
+  },
+  {
+    "archive": "9. Ensemble.zip",
+    "member": "10. Ensemble/data-ctg/teacher/locked-test-labels.csv",
+    "reason": "teacher-only labels/manifests excluded from student submission"
+  },
+  {
+    "archive": "9. Ensemble.zip",
+    "member": "10. Ensemble/data-ctg/teacher/split-manifest.json",
+    "reason": "teacher-only labels/manifests excluded from student submission"
+  }
+]

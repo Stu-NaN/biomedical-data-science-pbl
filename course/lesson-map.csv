@@ -1,0 +1,10 @@
+﻿folder,classroom_title,syllabus_number,focus
+01-tools,第 1 讲 课程介绍与 AI 工具,1,工具环境、版本管理与 AI 使用边界
+02-data-types,第 2 讲 变量与数据类型,2,变量含义、缺失数据和预处理
+03-04-high-dimensional-reduction,第 3 至 4 讲 高维数据与降维,3a / 3b,距离集中、PCA、UMAP 与信息泄漏
+05-hypothesis,第 5 讲 统计检验与假设设计,4,科学问题、Welch 检验、置信区间和结论边界
+06-multiple-testing,第 6 讲 多重检验校正,5,原始 p 值、Bonferroni、BH 与留出验证
+07-naive-bayes,第 7 讲 机器学习基础与朴素贝叶斯,6,条件概率、平滑、验证集选择和泛化边界
+08-linear-models,第 8 讲 线性模型 LDA 与 Logistic Regression,7,线性概率模型、共线性、阈值与评价协议
+09-svm,第 9 讲 SVM 与 Margin,8,间隔、支持向量、C、核函数与尺度
+10-ensemble,第 10 讲 集成学习与 Bootstrapping,9,Bagging、随机森林、Boosting 与验证
